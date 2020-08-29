@@ -1,17 +1,10 @@
 ---
 layout: single
-title: "Research Group"
-permalink: /group/
+title: "Students"
+permalink: /students/
 author_profile: true
 ---
 
-## Faculty
-
-* [Hui Liu](https://liuhuigmail.github.io/)
-
-## Postdocs
-
-* Join us
 
 ## Ph.D. Students
 
