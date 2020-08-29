@@ -11,7 +11,7 @@ Here is a list of graduate students in my lab:
 
 * [Taiming Wang (2020-2024)](#) 
 * [Hanling Tang (2019-2024, co-co-advised by Prof. Hong Mei)](#)
-* [Yaming Hu (2019-2023)](#)
+* [Yaming Hu (2019-2023)]
 * [Yanjie Jinag (2018-2023)](#)
 * [Lin Jiang (2017-2021, co-co-advised by Prof. Hong Mei)](#)
 * [Leping Li (2017-2021)](#)
