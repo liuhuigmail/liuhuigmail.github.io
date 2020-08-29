@@ -3,14 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research Group"
+  - title: "Students"
     url: /group/      
     
   - title: "Teaching"
     url: /teaching/
         
-  - title: "Services"
-    url: /services/
-
   - title: "中文版"
     url: /chinese/  
