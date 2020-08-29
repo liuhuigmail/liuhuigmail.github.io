@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hui Liu"
   avatar           : "profile.png"
-  bio              : "Professor at Beijing Institute of Technology, <a style='color: black;' href='http://cs.bit.edu.cn/'>School of Computer Science and Technology</a>"
-  location         : "Room No. 1206, Central Building"
+  bio              : "Professor with the <a style='color: black;' href='http://cs.bit.edu.cn/'> School of Computer Science and Technology</a>, <a style='color: black;' href='http://cs.bit.edu.cn/'>Beijing Institute of Technology</a> "
+  location         : "Room No. 1206, Central Building,  5 South Zhongguancun Street, Haidian District, Beijing"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=XOnQow4AAAAJ"
@@ -106,7 +106,7 @@ author:
   orcid            : "0000-0002-3267-6801"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
