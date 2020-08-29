@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Students"
 permalink: /students/
 author_profile: true
 ---
@@ -8,7 +7,7 @@ author_profile: true
 
 ## Ph.D. Students
 
-* [Lei Qiao(2016)](#)
+* [Yanjie Jinag(2017-)](#) [Lei Qiao(2016-)](#)
 
 ## Master Students
 
