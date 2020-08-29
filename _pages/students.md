@@ -7,7 +7,7 @@ author_profile: true
 
 ## Ph.D. Students
 
-* [Yanjie Jinag(2017-)](#) [Lei Qiao(2016-)](#)
+* [Yanjie Jinag(2017-)](#)   *[Lei Qiao(2016-)](#)
 
 ## Master Students
 
