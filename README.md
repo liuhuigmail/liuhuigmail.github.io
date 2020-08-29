@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/liuhuigmail/liuhuigmail/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## homepage/group/services更新方法
 
-### Markdown
+使用[markdown](https://www.markdownguide.org/getting-started/)语法进行文本录入与更新
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Teaching更新方法
 
-```markdown
-Syntax highlighted code block
+根据```_teaching```目录中的文件新建```year-season-teaching-num.md```，根据已有内容复制更改内部信息
 
-# Header 1
-## Header 2
-### Header 3
+## publication更新方法
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuhuigmail/liuhuigmail/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. 根据```_publication```目录当中的文件新建文件，复制更改；
+2. 将publication更新到tsv表格当中，运行```markdown_generator```中的```publications.py```自动生成；
+3. 将journal文章的bib收集到```pubs.bib```，conference文章的bib收集到```proceedings.bib```，运行```pubsFromBib.py```自动生成
