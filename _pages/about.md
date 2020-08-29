@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Prof. Hui Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
