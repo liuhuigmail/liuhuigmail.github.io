@@ -9,13 +9,13 @@ Here is a list of graduate students in my lab:
 
 ## Ph.D. Students
 
-* [Taiming Wang ](#) (2020-2024)
-* [Hanling Tang ](#) (2019-2024, co-advised by Prof. Hong Mei)
-* [Yaming Hu ](#) (2019-2023)
-* [Yanjie Jinag ](#) (2018-2023)
-* [Lin Jiang ](#) (2017-2021, co-advised by Prof. Hong Mei)
-* [Leping Li ](#) (2017-2021)
-* [Lei Qiao ](#) (2016-2020)
+* [Taiming Wang ](#) (2020-2024): Deep learning based software development.
+* [Hanling Tang ](#) (2019-2024, co-advised by Prof. Hong Mei): Deep learning based software development.  <a href="https://rdcu.be/b6ln4 ">中国科学2020 text</a>
+* [Yaming Hu ](#) (2019-2023): Deep learning based software development.
+* [Yanjie Jinag ](#) (2018-2023): Software quality and refactoring  <a href="https://ieeexplore.ieee.org/document/8454758">TSE2018 text</a>  <a href="https://dl.acm.org/doi/abs/10.1145/3338906.3338929">FSE2019 text</a>  <a href="https://dl.acm.org/doi/10.1145/3395363.3397355">ISSTA 2020 text</a>  <a href="https://ieeexplore.ieee.org/document/9096573">TSE2020 text</a> 
+* [Lin Jiang ](#) (2017-2021, co-advised by Prof. Hong Mei): Deep learning based software development.   <a href="https://ieeexplore.ieee.org/document/8952208">ASE2019 text</a>   <a href="https://ieeexplore.ieee.org/document/9171589">TSE2020 text</a> 
+* [Leping Li ](#) (2017-2021): Automatic program repair
+* [Lei Qiao ](#) (2016-2020): Software quality and defect prediction
 
 ## Master Students
 
