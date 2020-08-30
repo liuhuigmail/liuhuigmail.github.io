@@ -7,7 +7,7 @@ author_profile: true
  
 ### Ph.D. Students
 
-* <font size="2">[Taiming Wang ](#) (2020-2024): Deep learning based software development.</font>
+* [<font size="2">Taiming Wang</font> ](#)<font size="2"> (2020-2024): Deep learning based software development.</font>
 * [Hanling Tang ](#) (2019-2024, co-advised by Prof. Hong Mei): Deep learning based software development.  [<a href="https://rdcu.be/b6ln4 ">中国科学2020</a>]
 * [Yaming Hu ](#) (2019-2023): Deep learning based software development.
 * [Yanjie Jinag ](#) (2018-2023): Software quality and refactoring  [<a href="https://ieeexplore.ieee.org/document/8454758">TSE2018</a>]  [<a href="https://dl.acm.org/doi/abs/10.1145/3338906.3338929">FSE 2019</a>]  [<a href="https://dl.acm.org/doi/10.1145/3395363.3397355">ISSTA 2020</a>]  [<a href="https://ieeexplore.ieee.org/document/9096573">TSE2020</a> ]
