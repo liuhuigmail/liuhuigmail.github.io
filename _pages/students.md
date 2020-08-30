@@ -5,8 +5,8 @@ author_profile: true
 ---
  **I am always seeking bright and self-motivated students. If you are interested to work with me, please email me or drop by my office.**
  
-## Ph.D. Students
-
+### Ph.D. Students
+<font size="2">
 * [Taiming Wang ](#) (2020-2024): Deep learning based software development.
 * [Hanling Tang ](#) (2019-2024, co-advised by Prof. Hong Mei): Deep learning based software development.  [<a href="https://rdcu.be/b6ln4 ">中国科学2020</a>]
 * [Yaming Hu ](#) (2019-2023): Deep learning based software development.
@@ -14,8 +14,8 @@ author_profile: true
 * [Lin Jiang ](#) (2017-2021, co-advised by Prof. Hong Mei): Deep learning based software development.   [<a href="https://ieeexplore.ieee.org/document/8952208">ASE2019</a>]   [<a href="https://ieeexplore.ieee.org/document/9171589">TSE2020</a> ]
 * [Leping Li ](#) (2017-2021): Automatic program repair
 * [Lei Qiao ](#) (2016-2020): Software quality and defect prediction
-
-## Master Students
+</font>
+### Master Students
 
 * []()
 
