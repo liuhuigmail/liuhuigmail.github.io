@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hui Liu"
+  name             : "Prof. Hui Liu"
   avatar           : "profile.png"
-  bio              : "Professor with  <a style='color: black;' href='http://english.bit.edu.cn/'>Beijing Institute of Technology</a> "
+  bio              : "@<a href='http://english.bit.edu.cn/'>Beijing Institute of Technology</a>"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=XOnQow4AAAAJ"
