@@ -3,7 +3,7 @@ layout: single
 permalink: /students/
 author_profile: true
 ---
-I am always seeking bright and self-motivated students. If you are interested to work with me, please email me or drop by my office.
+<a>I am always seeking bright and self-motivated students. If you are interested to work with me, please email me or drop by my office.</b>
 
 Here is a list of graduate students in my lab:
 
