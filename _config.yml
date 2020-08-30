@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Hui Liu"
   avatar           : "profile.png"
-  bio              : "Professor with the <a style='color: black;' href='http://cs.bit.edu.cn/'> School of Computer Science</a>, <a style='color: black;' href='http://english.bit.edu.cn/'>Beijing Institute of Technology</a> "
-  location         : "Room 1206, Central Building"
+  bio              : "Professor with  <a style='color: black;' href='http://english.bit.edu.cn/'>Beijing Institute of Technology</a> "
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=XOnQow4AAAAJ"
-  email            : "Liuhui08@bit.edu.cn"
+  email            : "liuhui08@bit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
