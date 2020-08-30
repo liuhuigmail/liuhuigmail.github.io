@@ -4,9 +4,7 @@ permalink: /students/
 author_profile: true
 ---
  **I am always seeking bright and self-motivated students. If you are interested to work with me, please email me or drop by my office.**
-
-Here is a list of graduate students in my lab:
-
+ 
 ## Ph.D. Students
 
 * [Taiming Wang ](#) (2020-2024): Deep learning based software development.
