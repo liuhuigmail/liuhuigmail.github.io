@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/InsRefactorFeature_1.0.0.201212072335.jar" id="InsRefactorFeature" version="1.0.0.201212072335">
+      <category name="InsRefactor"/>
+   </feature>
+   <category-def name="InsRefactor" label="InsRefactor"/>
+</site>
