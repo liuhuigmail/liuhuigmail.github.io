@@ -1,0 +1,2228 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List href="index_files/filelist.xml">
+<link rel=Edit-Time-Data href="index_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Hui Liu</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Liu HUI</o:Author>
+  <o:LastAuthor>Liu HUI</o:LastAuthor>
+  <o:Revision>87</o:Revision>
+  <o:TotalTime>324</o:TotalTime>
+  <o:Created>2020-08-31T03:55:00Z</o:Created>
+  <o:LastSaved>2020-08-31T11:28:00Z</o:LastSaved>
+  <o:Pages>4</o:Pages>
+  <o:Words>1527</o:Words>
+  <o:Characters>8704</o:Characters>
+  <o:Lines>72</o:Lines>
+  <o:Paragraphs>20</o:Paragraphs>
+  <o:CharactersWithSpaces>10211</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData href="index_files/themedata.thmx">
+<link rel=colorSchemeMapping href="index_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>150</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="375">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:DengXian;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:DengXian;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610612033 953122042 22 0 262159 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073683329 9 0 511 0;}
+@font-face
+	{font-family:"Comic Sans MS";
+	panose-1:3 15 7 2 3 3 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:script;
+	mso-font-pitch:variable;
+	mso-font-signature:647 19 0 0 159 0;}
+@font-face
+	{font-family:DengXian;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610612033 953122042 22 0 262159 0;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:DengXian;
+	mso-fareast-theme-font:minor-fareast;}
+h2
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 2 Char";
+	mso-style-next:Normal;
+	margin-top:13.0pt;
+	margin-right:0cm;
+	margin-bottom:13.0pt;
+	margin-left:0cm;
+	line-height:170%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:16.0pt;
+	font-family:"DengXian Light";
+	mso-ascii-font-family:"DengXian Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"DengXian Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"DengXian Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-weight:bold;}
+h3
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 3 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:DengXian;
+	mso-fareast-theme-font:minor-fareast;}
+address
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"HTML Address Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+span.HTMLAddressChar
+	{mso-style-name:"HTML Address Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"HTML Address";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:DengXian;
+	mso-ascii-font-family:DengXian;
+	mso-fareast-font-family:DengXian;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:DengXian;
+	font-style:italic;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 2";
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:"DengXian Light";
+	mso-ascii-font-family:"DengXian Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"DengXian Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"DengXian Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-weight:bold;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 3";
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:DengXian;
+	mso-ascii-font-family:DengXian;
+	mso-fareast-font-family:DengXian;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:DengXian;
+	font-weight:bold;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:DengXian;
+	mso-fareast-theme-font:minor-fareast;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-font-kerning:0pt;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:16856448;
+	mso-list-template-ids:-1790798688;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-text:"\[%2\]\.";
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:242567541;
+	mso-list-template-ids:-1016137620;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2
+	{mso-list-id:1294336249;
+	mso-list-template-ids:609110506;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3
+	{mso-list-id:1395736661;
+	mso-list-template-ids:-1790798688;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level2
+	{mso-level-text:"\[%2\]\.";
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4
+	{mso-list-id:1665089349;
+	mso-list-template-ids:-154907896;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l5
+	{mso-list-id:1836798790;
+	mso-list-template-ids:-893884014;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l5:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l5:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l5:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l5:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l5:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l5:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l5:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level1 lfo7
+	{mso-level-numbering:continue;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level2 lfo7
+	{mso-level-suffix:space;
+	mso-level-reset-level:level1;
+	mso-level-numbering:continue;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;}
+@list l3:level3 lfo7
+	{mso-level-reset-level:level1;
+	mso-level-numbering:continue;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level4 lfo7
+	{mso-level-reset-level:level1;
+	mso-level-numbering:continue;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level5 lfo7
+	{mso-level-reset-level:level1;
+	mso-level-numbering:continue;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level6 lfo7
+	{mso-level-reset-level:level1;
+	mso-level-numbering:continue;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level7 lfo7
+	{mso-level-reset-level:level1;
+	mso-level-numbering:continue;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level8 lfo7
+	{mso-level-reset-level:level1;
+	mso-level-numbering:continue;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level9 lfo7
+	{mso-level-reset-level:level1;
+	mso-level-numbering:continue;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-priority:39;
+	mso-style-unhide:no;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ZH-CN link=blue vlink=purple style='tab-interval:21.0pt'>
+
+<div class=WordSection1>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=5 cellpadding=0 width=576
+ style='width:432.35pt;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td valign=top style='padding:.75pt .75pt .75pt .75pt'>
+  <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width=602
+   style='width:451.5pt;border-collapse:collapse;border:none;mso-yfti-tbllook:
+   1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:
+   none'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+    <td width=207 valign=top style='width:155.2pt;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+    color:blue;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+     coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+     filled="f" stroked="f">
+     <v:stroke joinstyle="miter"/>
+     <v:formulas>
+      <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+      <v:f eqn="sum @0 1 0"/>
+      <v:f eqn="sum 0 0 @1"/>
+      <v:f eqn="prod @2 1 2"/>
+      <v:f eqn="prod @3 21600 pixelWidth"/>
+      <v:f eqn="prod @3 21600 pixelHeight"/>
+      <v:f eqn="sum @0 0 1"/>
+      <v:f eqn="prod @6 1 2"/>
+      <v:f eqn="prod @7 21600 pixelWidth"/>
+      <v:f eqn="sum @8 21600 0"/>
+      <v:f eqn="prod @7 21600 pixelHeight"/>
+      <v:f eqn="sum @10 21600 0"/>
+     </v:formulas>
+     <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+     <o:lock v:ext="edit" aspectratio="t"/>
+    </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1032" type="#_x0000_t75"
+     style='width:144.35pt;height:135.65pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="index_files/image003.jpg" o:title=""/>
+    </v:shape><![endif]--><![if !vml]><img width=192 height=181
+    src="index_files/image002.jpg" v:shapes="Picture_x0020_1"><![endif]></span><span
+    lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td width=395 valign=top style='width:296.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:6.0pt;mso-para-margin-bottom:.5gd;
+    line-height:150%;layout-grid-mode:char;mso-layout-grid-align:none'><b
+    style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:13.5pt;
+    line-height:150%;font-family:"Comic Sans MS";mso-fareast-font-family:"Times New Roman"'>Hui
+    Liu<o:p></o:p></span></b></p>
+    <p class=MsoNormal><span lang=EN-US style='font-size:13.5pt;mso-fareast-font-family:
+    "Times New Roman"'>Professor<br>
+    <span style='color:blue'><a href="http://cs.bit.edu.cn/">School of Computer
+    Science and Technology</a> <br>
+    <a href="http://english.bit.edu.cn/">Beijing Institute of Technology</a></span><br>
+    Beijing, China<o:p></o:p></span></p>
+    <p class=MsoNormal><span lang=EN-US style='font-size:13.5pt;mso-fareast-font-family:
+    "Times New Roman"'><br>
+    <a href="mailto:liuhui08@bit.edu.cn">liuhui08@bit.edu.cn</a><br>
+    Office location: R1206, Central Building</span><span lang=EN-US
+    style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </td>
+  <td width=14 valign=top style='width:10.5pt;padding:.75pt .75pt .75pt .75pt'></td>
+ </tr>
+</table>
+
+</div>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style='mso-fareast-font-family:"Times New Roman"'>
+
+<hr size=5 width="100%" align=center>
+
+</span></div>
+
+<p><span lang=EN-US>I am a Professor in the </span><span lang=EN-US
+style='font-size:13.5pt;mso-fareast-font-family:"Times New Roman"'><a
+href="http://www.cs.bit.edu.cn/">School of Computer Science and Technology</a></span><span
+lang=EN-US> at the </span><span lang=EN-US style='font-size:13.5pt;mso-fareast-font-family:
+"Times New Roman"'><a href="http://english.bit.edu.cn/">Beijing Institute of
+Technology</a></span><span lang=EN-US>. I was formerly a graduate student at
+the <a href="http://www.sei.pku.edu.cn/">Software Engineering Institute</a>, <a
+href="http://english.pku.edu.cn/">Peking University</a>. I defended my PhD
+thesis in June 2008. <br>
+<br>
+My research interests include deep <span class=GramE>learning based</span>
+software engineering, in particular: deep learning based program generation;
+software refactoring; automatic program repair; software quality; machine
+learning based code complete; automatic construction of software engineering
+datasets. My work is funded in part by the National Natural Science Foundation
+of China, and the National Key Research and Development Program of China.<br>
+<br>
+I am a recipient of the IET Software Premium Award (2018), New Century
+Excellent Talents in University (2013), and Beijing Higher Education Young
+Elite Teacher (2013). </span></p>
+
+<p><b style='mso-bidi-font-weight:normal'><span lang=EN-US>I am always looking
+for self-motivated students to work with me.</span></b><span lang=EN-US>
+Contact me by <span class=SpellE>eMail</span> if you are interested in deep
+learning, software engineering, natural language processing, or data mining. </span></p>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style='mso-fareast-font-family:"Times New Roman"'>
+
+<hr size=5 width="100%" align=center>
+
+</span></div>
+
+<h3><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Doctoral
+Students<o:p></o:p></span></h3>
+
+<ul type=disc>
+ <li class=MsoNormal style='color:#24292E;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;mso-list:l4 level1 lfo1;tab-stops:list 36.0pt;background:white'><span
+     class=SpellE><span class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:
+     "Times New Roman";text-decoration:none;text-underline:none'>Taiming</span></span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'> Wang</span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>&nbsp;</span></span><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun'>(2020-): Deep learning-based software development.<o:p></o:p></span></li>
+ <li class=MsoNormal style='color:#24292E;margin-top:3.0pt;mso-margin-bottom-alt:
+     auto;mso-list:l4 level1 lfo1;tab-stops:list 36.0pt;background:white'><span
+     class=SpellE><span class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:
+     "Times New Roman";text-decoration:none;text-underline:none'>Hanling</span></span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'> Tang</span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>&nbsp;</span></span><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun'>(2019-, co-advised by <a
+     href="http://cs.bit.edu.cn/szdw/jsml/js/mh/index.htm">Prof. Hong Mei</a>):
+     Deep <span class=GramE>learning based</span> software development. [</span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'><a href="https://rdcu.be/b6ln4"><span
+     style='text-decoration:none;text-underline:none'>SCIENCE CHINA2020</span></a></span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>]</span></span><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun'><o:p></o:p></span></li>
+ <li class=MsoNormal style='color:#24292E;margin-top:3.0pt;mso-margin-bottom-alt:
+     auto;mso-list:l4 level1 lfo1;tab-stops:list 36.0pt;background:white'><span
+     class=SpellE><span class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:
+     "Times New Roman";text-decoration:none;text-underline:none'>Yaming</span></span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'> Hu</span></span><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun;color:#0366D6'> </span><span lang=EN-US style='font-family:"Segoe UI",sans-serif;
+     mso-fareast-font-family:SimSun'>(2019-): Deep Learning based software
+     development.<o:p></o:p></span></li>
+ <li class=MsoNormal style='color:#24292E;margin-top:3.0pt;mso-margin-bottom-alt:
+     auto;mso-list:l4 level1 lfo1;tab-stops:list 36.0pt;background:white'><span
+     class=SpellE><span class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:
+     "Times New Roman";text-decoration:none;text-underline:none'>Yanjie</span></span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'> <span class=SpellE>Jinag</span></span></span><u><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun;color:#0366D6'>&nbsp;</span></u><span lang=EN-US style='font-family:
+     "Segoe UI",sans-serif;mso-fareast-font-family:SimSun'>(2018-): Software
+     quality and refactoring [</span><span class=MsoHyperlink><span lang=EN-US
+     style='mso-fareast-font-family:"Times New Roman";text-decoration:none;
+     text-underline:none'><a href="https://ieeexplore.ieee.org/document/8454758"><span
+     style='text-decoration:none;text-underline:none'>TSE2018</span></a></span></span><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun'>] [</span><span class=MsoHyperlink><span lang=EN-US
+     style='mso-fareast-font-family:"Times New Roman";text-decoration:none;
+     text-underline:none'><a
+     href="https://dl.acm.org/doi/abs/10.1145/3338906.3338929"><span
+     style='text-decoration:none;text-underline:none'>FSE 2019</span></a></span></span><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun'>] [</span><span class=MsoHyperlink><span lang=EN-US
+     style='mso-fareast-font-family:"Times New Roman";text-decoration:none;
+     text-underline:none'><a
+     href="https://dl.acm.org/doi/10.1145/3395363.3397355"><span
+     style='text-decoration:none;text-underline:none'>ISSTA 2020</span></a></span></span><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun'>] [</span><span class=MsoHyperlink><span lang=EN-US
+     style='mso-fareast-font-family:"Times New Roman";text-decoration:none;
+     text-underline:none'><a href="https://ieeexplore.ieee.org/document/9096573"><span
+     style='text-decoration:none;text-underline:none'>TSE2020</span></a>&nbsp;</span></span><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun'>]<o:p></o:p></span></li>
+ <li class=MsoNormal style='color:#24292E;margin-top:3.0pt;mso-margin-bottom-alt:
+     auto;mso-list:l4 level1 lfo1;tab-stops:list 36.0pt;background:white'><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'>Lin Jiang</span></span><u><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun;color:#0366D6'>&nbsp;</span></u><span lang=EN-US style='font-family:
+     "Segoe UI",sans-serif;mso-fareast-font-family:SimSun'>(2017-, co-advised
+     by <a href="http://cs.bit.edu.cn/szdw/jsml/js/mh/index.htm">Prof. Hong Mei</a>):
+     Deep <span class=GramE>learning based</span> software development. [</span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'><a
+     href="https://ieeexplore.ieee.org/document/8952208"><span
+     style='text-decoration:none;text-underline:none'>ASE2019</span></a></span></span><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun'>] [</span><span class=MsoHyperlink><span lang=EN-US
+     style='mso-fareast-font-family:"Times New Roman";text-decoration:none;
+     text-underline:none'><a href="https://ieeexplore.ieee.org/document/9171589"><span
+     style='text-decoration:none;text-underline:none'>TSE2020</span></a></span></span><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun'>]<o:p></o:p></span></li>
+ <li class=MsoNormal style='color:#24292E;margin-top:3.0pt;mso-margin-bottom-alt:
+     auto;mso-list:l4 level1 lfo1;tab-stops:list 36.0pt;background:white'><span
+     class=SpellE><span class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:
+     "Times New Roman";text-decoration:none;text-underline:none'>Leping</span></span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'> Li</span></span><u><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun;color:#0366D6'>&nbsp;</span></u><span lang=EN-US style='font-family:
+     "Segoe UI",sans-serif;mso-fareast-font-family:SimSun'>(2017-): Automatic
+     program repair<o:p></o:p></span></li>
+ <li class=MsoNormal style='color:#24292E;margin-top:3.0pt;mso-margin-bottom-alt:
+     auto;mso-list:l4 level1 lfo1;tab-stops:list 36.0pt;background:white'><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'>Lei <span class=SpellE>Qiao</span></span></span><u><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun;color:#0366D6'>&nbsp;</span></u><span lang=EN-US style='font-family:
+     "Segoe UI",sans-serif;mso-fareast-font-family:SimSun'>(2016-): Software
+     quality and defect prediction [</span><span lang=EN-US style='mso-fareast-font-family:
+     SimSun'><a
+     href="https://www.sciencedirect.com/science/article/abs/pii/S0925231219316698">Neurocomputing</a></span><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun'>]<o:p></o:p></span></li>
+</ul>
+
+<h3><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Master
+Students<o:p></o:p></span></h3>
+
+<ul type=disc>
+ <li class=MsoNormal style='color:#24292E;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;mso-list:l4 level1 lfo1;tab-stops:list 36.0pt;background:white'><span
+     class=SpellE><span class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:
+     "Times New Roman";text-decoration:none;text-underline:none'>Kejun</span></span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'> Li </span></span><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;color:windowtext'>(2019-):
+     Software quality and refactoring</span><span class=MsoHyperlink><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun;color:#24292E;text-decoration:none;text-underline:none'><o:p></o:p></span></span></li>
+ <li class=MsoNormal style='color:#24292E;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;mso-list:l4 level1 lfo1;tab-stops:list 36.0pt;background:white'><span
+     class=SpellE><span class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:
+     "Times New Roman";text-decoration:none;text-underline:none'>Qingqing</span></span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'> Jiao </span></span><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;color:windowtext'>(2019-):
+     Software quality and refactoring</span><span class=MsoHyperlink><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun;color:#24292E;text-decoration:none;text-underline:none'><o:p></o:p></span></span></li>
+ <li class=MsoNormal style='color:#24292E;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;mso-list:l4 level1 lfo1;tab-stops:list 36.0pt;background:white'><span
+     class=SpellE><span class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:
+     "Times New Roman";text-decoration:none;text-underline:none'>Yingchen</span></span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'> Tian </span></span><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;color:windowtext'>(2019-):
+     Software quality and refactoring</span><span class=MsoHyperlink><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun;color:#24292E;text-decoration:none;text-underline:none'><o:p></o:p></span></span></li>
+ <li class=MsoNormal style='color:#24292E;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;mso-list:l4 level1 lfo1;tab-stops:list 36.0pt;background:white'><span
+     class=SpellE><span class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:
+     "Times New Roman";text-decoration:none;text-underline:none'>Jiahao</span></span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'> <span class=SpellE>Jin</span></span></span><span
+     class=MsoHyperlink><span lang=EN-US style='font-family:"Segoe UI",sans-serif;
+     mso-fareast-font-family:SimSun;color:#24292E;text-decoration:none;
+     text-underline:none'> </span></span><span lang=EN-US style='font-family:
+     "Segoe UI",sans-serif;color:windowtext'>(2018-): Deep learning based software
+     development, Software Quality</span><span class=MsoHyperlink><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun;color:#24292E;text-decoration:none;text-underline:none'> </span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:SimSun;
+     color:#24292E;text-decoration:none;text-underline:none'>[<a
+     href="https://ieeexplore.ieee.org/document/8807230"><span
+     style='text-decoration:none;text-underline:none'>TSE2019</span></a>] [<a
+     href="https://ieeexplore.ieee.org/document/9096573"><span
+     style='text-decoration:none;text-underline:none'>TSE2020</span></a>] [<a
+     href="https://dl.acm.org/doi/10.1145/3395363.3397355"><span
+     style='text-decoration:none;text-underline:none'>ISSTA2020</span></a>]</span></span><span
+     class=MsoHyperlink><span lang=EN-US style='font-family:"Segoe UI",sans-serif;
+     mso-fareast-font-family:SimSun;color:#24292E;text-decoration:none;
+     text-underline:none'> <o:p></o:p></span></span></li>
+ <li class=MsoNormal style='color:#24292E;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;mso-list:l4 level1 lfo1;tab-stops:list 36.0pt;background:white'><span
+     class=SpellE><span class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:
+     "Times New Roman";text-decoration:none;text-underline:none'>Mingzhu</span></span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'> Shen</span></span><span
+     class=MsoHyperlink><span lang=EN-US style='font-family:"Segoe UI",sans-serif;
+     mso-fareast-font-family:SimSun;color:#24292E;text-decoration:none;
+     text-underline:none'> </span></span><span lang=EN-US style='font-family:
+     "Segoe UI",sans-serif;color:windowtext'>(2018-): Deep learning based
+     software development, Software Quality</span><span class=MsoHyperlink><span
+     lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+     SimSun;color:#24292E;text-decoration:none;text-underline:none'> </span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:SimSun;
+     color:#24292E;text-decoration:none;text-underline:none'>[<a
+     href="https://ieeexplore.ieee.org/document/9173704"><span
+     style='text-decoration:none;text-underline:none'>TSE2020</span></a>] [<a
+     href="https://dl.acm.org/doi/10.1145/3395363.3397355"><span
+     style='text-decoration:none;text-underline:none'>ISSTA2020</span></a>]</span></span><span
+     class=MsoHyperlink><span lang=EN-US style='font-family:"Segoe UI",sans-serif;
+     mso-fareast-font-family:SimSun;color:#24292E;text-decoration:none;
+     text-underline:none'> <o:p></o:p></span></span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l4 level1 lfo1;tab-stops:list 36.0pt;background:white'><span
+     class=SpellE><span class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:
+     "Times New Roman";text-decoration:none;text-underline:none'>Miaoying</span></span></span><span
+     class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+     text-decoration:none;text-underline:none'> Wang</span></span><span
+     class=MsoHyperlink><span lang=EN-US style='font-family:"Segoe UI",sans-serif;
+     mso-fareast-font-family:SimSun;color:#24292E;text-decoration:none;
+     text-underline:none'> </span></span><span lang=EN-US style='font-family:
+     "Segoe UI",sans-serif'>(2018-): Compiler testing</span></li>
+</ul>
+
+<h3><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Former
+Students<o:p></o:p></span></h3>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l5 level1 lfo2;tab-stops:list 36.0pt'><strong><span lang=EN-US
+     style='mso-fareast-font-family:"Times New Roman"'>Doctoral </span></strong><span
+     lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></li>
+ <ul type=circle>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l5 level2 lfo2;tab-stops:list 72.0pt'><span class=SpellE><span
+      class=MsoHyperlink><span lang=EN-US style='text-decoration:none;
+      text-underline:none'>Guangjie</span></span></span><span
+      class=MsoHyperlink><span lang=EN-US style='text-decoration:none;
+      text-underline:none'> Li</span></span><span lang=EN-US style='mso-fareast-font-family:
+      "Times New Roman"'> (Ph.D. 2020, Dissertation title: &quot;</span><span
+      lang=EN-US> </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Program
+      Analysis Based on Semantics of Identifiers&quot;) [<a
+      href="https://ieeexplore.ieee.org/document/9054826/"><span
+      style='text-decoration:none;text-underline:none'>SANER2020</span></a>]</span><span
+      lang=EN-US style='font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+      SimSun;color:#24292E'> [</span><span class=MsoHyperlink><span lang=EN-US
+      style='mso-fareast-font-family:"Times New Roman";text-decoration:none;
+      text-underline:none'><a href="https://rdcu.be/b6ln4"><span
+      style='text-decoration:none;text-underline:none'>SCIENCE CHINA2020</span></a></span></span><span
+      class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+      color:windowtext'>][</span></span><span class=MsoHyperlink><span
+      lang=EN-US style='mso-fareast-font-family:"Times New Roman";text-decoration:
+      none;text-underline:none'><a href="https://dl.acm.org/doi/10.1145/3379443"><span
+      style='text-decoration:none;text-underline:none'>ACM Computing Surveys</span></a></span></span><span
+      class=MsoHyperlink><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+      color:windowtext'>]</span></span><span lang=EN-US style='mso-fareast-font-family:
+      "Times New Roman"'><o:p></o:p></span></li>
+ </ul>
+</ul>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style='mso-fareast-font-family:"Times New Roman"'>
+
+<hr size=5 width="100%" align=center>
+
+</span></div>
+
+<h3><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Teaching<o:p></o:p></span></h3>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l2 level1 lfo3;tab-stops:list 36.0pt'><strong><span lang=EN-US
+     style='mso-fareast-font-family:"Times New Roman"'>Graduate Course</span></strong><span
+     lang=EN-US style='mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></li>
+ <ul type=circle>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l2 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US
+      style='mso-fareast-font-family:"Times New Roman"'>Frontiers of Computer
+      Science, 2014-<o:p></o:p></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l2 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US>Software
+      Architecture, 2008-2015</span><span lang=EN-US style='mso-fareast-font-family:
+      "Times New Roman"'><o:p></o:p></span></li>
+ </ul>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l2 level1 lfo3;tab-stops:list 36.0pt'><strong><span lang=EN-US
+     style='mso-fareast-font-family:"Times New Roman"'>Undergraduate Courses</span></strong><span
+     lang=EN-US style='mso-fareast-font-family:"Times New Roman"'> <o:p></o:p></span></li>
+ <ul type=circle>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l2 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US
+      style='mso-fareast-font-family:"Times New Roman"'>Software Testing, 2010-<o:p></o:p></span></li>
+  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;mso-list:l2 level2 lfo3;tab-stops:list 72.0pt'><span lang=EN-US>Object-Oriented
+      Software Design, 2013 </span><span lang=EN-US style='mso-fareast-font-family:
+      "Times New Roman"'><o:p></o:p></span></li>
+ </ul>
+</ul>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style='mso-fareast-font-family:"Times New Roman"'>
+
+<hr size=5 width="100%" align=center>
+
+</span></div>
+
+<h3><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Community
+(Since 2020)<o:p></o:p></span></h3>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l1 level1 lfo4;tab-stops:list 36.0pt'><span lang=EN-US
+     style='mso-fareast-font-family:"Times New Roman"'>2020: </span><span
+     class=MsoHyperlink><span lang=EN-US><a href="https://icsme2020.github.io/"><span
+     style='mso-fareast-font-family:"Times New Roman"'>ICSME</span></a></span></span><span
+     lang=EN-US style='mso-fareast-font-family:"Times New Roman"'> PC, </span><span
+     class=MsoHyperlink><span lang=EN-US><a href="http://conf.saner2021.site/"><span
+     style='mso-fareast-font-family:"Times New Roman"'>SANER</span></a></span></span><span
+     lang=EN-US style='mso-fareast-font-family:"Times New Roman"'> PC,</span><span
+     lang=EN-US> </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><a
+     href="https://www.re20.org/">RE</a> Posters and Demos Track PC, <a
+     href="http://compsac.org/">COMPSAC</a> PC, </span><span
+     class=MsoHyperlink><span lang=EN-US><a
+     href="https://internetware2020.github.io/"><span style='mso-fareast-font-family:
+     "Times New Roman"'>Internetware</span></a> </span></span><span lang=EN-US
+     style='mso-fareast-font-family:"Times New Roman"'>PC, </span><span
+     class=MsoHyperlink><span lang=EN-US><a
+     href="https://digital-library.theiet.org/content/journals/iet-sen"><span
+     style='mso-fareast-font-family:"Times New Roman"'>IET Software</span></a></span></span><span
+     lang=EN-US style='mso-fareast-font-family:"Times New Roman"'> AE, <a
+     href="https://www.springer.com/journal/10664">EMSE</a> Guest AE, <a
+     href="https://www.journals.elsevier.com/journal-of-systems-and-software">JSS</a>
+     Guest AE<o:p></o:p></span></li>
+</ul>
+
+<div style='margin-left:36.0pt;margin-top:5.0pt;margin-bottom:5.0pt'>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style='mso-fareast-font-family:"Times New Roman"'>
+
+<hr size=5 width="100%" align=center>
+
+</span></div>
+
+</div>
+
+<h3><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Research<o:p></o:p></span></h3>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l1 level1 lfo4;tab-stops:list 36.0pt'><b><span lang=EN-US>Deep
+     Learning-based Software Engineering </span></b><span lang=EN-US
+     style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></li>
+</ul>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:71.7pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:71.7pt;text-indent:-17.85pt;mso-list:l0 level2 lfo5;
+tab-stops:list 72.0pt;mso-layout-grid-align:none'><![if !supportLists]><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>[1].<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Hui Liu</span></b><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>*, <span
+class=SpellE>Mingzhu</span> Shen, <span class=SpellE>Jiaqi</span> Zhu, Nan Niu,
+Ge Li and Lu Zhang, &quot;<a href="https://ieeexplore.ieee.org/document/9173704">Deep
+Learning Based Program Generation from Requirements Text: Are We There Yet?</a>&quot;
+in IEEE Transactions on Software Engineering (<i style='mso-bidi-font-style:
+normal'>IEEE TSE</i>), Online 2020 [<span class=MsoHyperlink><a
+href="https://github.com/ds4an/CoDas4CG">Tools and Dataset</a></span><span
+class=MsoHyperlink><span style='color:windowtext'>]</span></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:71.7pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:71.7pt;text-indent:-17.85pt;mso-list:l0 level2 lfo5;
+tab-stops:list 72.0pt;mso-layout-grid-align:none'><![if !supportLists]><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>[2].<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span></span><![endif]><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman"'>Lin Jiang, <b style='mso-bidi-font-weight:normal'>Hui Liu</b></span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-family:DengXian;
+mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-fareast'>*</span></b><span lang=EN-US
+style='mso-fareast-font-family:"Times New Roman"'>, He Jiang, Lu Zhang and Hong
+Mei, &quot;<a href="https://ieeexplore.ieee.org/document/9171589">Heuristic and
+Neural Network based Prediction of Project-Specific API Member Access</a>,&quot;
+in IEEE Transactions on Software Engineering (<i style='mso-bidi-font-style:
+normal'>IEEE TSE</i>), Online 2020) [<span class=MsoHyperlink><a
+href="https://github.com/CC-CG/HeeNAMA">Tools and Dataset</a></span><span
+class=MsoHyperlink><span style='color:windowtext'>]</span></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:71.7pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:71.7pt;text-indent:-17.85pt;mso-list:l0 level2 lfo5;
+tab-stops:list 72.0pt;mso-layout-grid-align:none'><![if !supportLists]><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>[3].<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span></span><![endif]><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman"'>Lin. Jiang, <b style='mso-bidi-font-weight:normal'>Hui Liu</b></span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-family:DengXian;
+mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-fareast'>*</span></b><span lang=EN-US
+style='mso-fareast-font-family:"Times New Roman"'>, and He Jiang, &quot;<a
+href="https://ieeexplore.ieee.org/document/8952208">Machine Learning Based
+Recommendation of Method Names: How Far are We</a>&quot;</span><span
+lang=EN-US style='font-family:SimSun;mso-bidi-font-family:SimSun'>,</span><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>34th IEEE/ACM International
+Conference on Automated Software Engineering (<i style='mso-bidi-font-style:
+normal'>ASE</i>), San Diego, CA, USA, 2019, pp. 602-614. [<span
+class=MsoHyperlink><a href="https://github.com/Method-Name-Recommendation/HeMa">Tools
+and Dataset</a></span><span class=MsoHyperlink><span style='color:windowtext'>]</span></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:71.7pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:71.7pt;text-indent:-17.85pt;mso-list:l0 level2 lfo5;
+tab-stops:list 72.0pt;mso-layout-grid-align:none'><![if !supportLists]><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>[4].<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Hui Liu</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-family:DengXian;
+mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-fareast'>*</span></b><span lang=EN-US
+style='mso-fareast-font-family:"Times New Roman"'>, <span class=SpellE>Jiahao</span>
+<span class=SpellE>Jin</span>, <span class=SpellE>Zzhifeng</span> Xu, <span
+class=SpellE>Yifan</span> Bu, <span class=SpellE>Yanzhen</span>. Zou and Lu
+Zhang, &quot;<a href="https://ieeexplore.ieee.org/document/8807230">Deep
+Learning Based Code Smell Detection</a>&quot;, in IEEE Transactions on Software
+Engineering (<i style='mso-bidi-font-style:normal'>IEEE TSE</i>), Online 2019 [<span
+class=MsoHyperlink><a href="https://github.com/liuhuigmail/DeepSmellDetection">Tools
+and Dataset</a></span><span class=MsoHyperlink><span style='color:windowtext'>]</span></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:71.7pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:71.7pt;text-indent:-17.85pt;mso-list:l0 level2 lfo5;
+tab-stops:list 72.0pt;mso-layout-grid-align:none'><![if !supportLists]><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>[5].<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Hui Liu</span></b><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>; <span
+class=SpellE>Zhifeng</span> Xu; <span class=SpellE>Yanzhen</span> Zou, &quot;<a
+href="https://ieeexplore.ieee.org/document/8999996">Deep Learning Based Feature
+Envy Detection</a>&quot;</span><span lang=EN-US style='font-family:SimSun;
+mso-bidi-font-family:SimSun'>,</span><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman"'> 33rd IEEE/ACM International Conference on Automated
+Software Engineering (<i style='mso-bidi-font-style:normal'>ASE</i>),
+Montpellier, France, 2018, pp. 385-396 [<span class=MsoHyperlink><a
+href="https://github.com/liuhuigmail/FeatureEnvy">Tools and Dataset</a></span><span
+class=MsoHyperlink><span style='color:windowtext'>]</span></span><o:p></o:p></span></p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l1 level1 lfo4;tab-stops:list 36.0pt'><b><span lang=EN-US>Software
+     Refactoring and Software Quality <o:p></o:p></span></b></li>
+</ul>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:72.0pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:72.0pt;text-indent:-18.0pt;mso-list:l3 level2 lfo6;
+tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>[1].<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Hui Liu</span></b><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>, <span
+class=SpellE>Minzhu</span> Shen, <span class=SpellE>Jiahao</span> <span
+class=SpellE>Jin</span>, <span class=SpellE>Yanjie</span> Jiang. <a
+href="https://dl.acm.org/doi/10.1145/3395363.3397355">Automated Classification
+of Actions in Bug Reports of Mobile Apps</a>. The 29th ACM SIGSOFT
+International Symposium on Software Testing and Analysis (<i style='mso-bidi-font-style:
+normal'>ISSTA</i>), July 18-22, 2020, Los Angeles, CA, USA [<span
+class=MsoHyperlink><a href="https://github.com/sakura182/Maca">Tools and
+Dataset</a></span><span class=MsoHyperlink><span style='color:windowtext'>] </span></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:71.7pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:71.7pt;text-indent:-17.85pt;mso-list:l3 level2 lfo6;
+tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>[2].<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+class=SpellE><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Yanjie</span></span><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>. Jiang, <b
+style='mso-bidi-font-weight:normal'>Hui Liu</b>*, <span class=SpellE>Jiahao</span>
+<span class=SpellE>Jin</span> and Lu. Zhang, &quot;<a
+href="https://ieeexplore.ieee.org/document/9096573">Automated Expansion of
+Abbreviations Based on Semantic Relation and Transfer Expansion</a>,&quot; in
+IEEE Transactions on Software Engineering (<i style='mso-bidi-font-style:normal'>IEEE
+TSE</i>), Online 2020 [<span class=MsoHyperlink><a
+href="https://github.com/DataPublic/TransferExpander">Tools and Dataset</a></span><span
+class=MsoHyperlink><span style='color:windowtext'>]</span></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:71.7pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:71.7pt;text-indent:-17.85pt;mso-list:l3 level2 lfo6;
+tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>[3].<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+class=SpellE><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Yangjie</span></span><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'> Jiang, <b
+style='mso-bidi-font-weight:normal'>Hui. Liu</b>*, <span class=SpellE>Jiaqi</span>
+Zhu and Lu Zhang, &quot;<a href="https://ieeexplore.ieee.org/document/8454758">Automatic
+and Accurate Expansion of Abbreviations in Parameters</a>,&quot; in IEEE
+Transactions on Software Engineering (<i style='mso-bidi-font-style:normal'>IEEE
+TSE</i>), vol. 46, no. 7, pp. 732-747, 1 July 2020 [<span class=MsoHyperlink><a
+href="https://github.com/liuhuigmail/ParameterAbbreviation">Tools and Dataset</a></span><span
+class=MsoHyperlink><span style='color:windowtext'>]</span></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:71.7pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:71.7pt;text-indent:-17.85pt;mso-list:l3 level2 lfo6;
+tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>[4].<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+class=SpellE><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Yanjie</span></span><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'> Jiang, <b
+style='mso-bidi-font-weight:normal'>Hui Liu</b>*, and Lu Zhang. 2019.<a
+href="https://dl.acm.org/doi/10.1145/3338906.3338929"> Semantic Relation based
+Expansion of Abbreviations</a>. In Proceedings of the 27th ACM Joint Meeting on
+European Software Engineering Conference and Symposium on the Foundations of
+Software Engineering (<i style='mso-bidi-font-style:normal'>ESEC/FSE</i> 2019).
+Association for Computing Machinery, New York, NY, USA, 131-141[<span
+class=MsoHyperlink><a href="https://github.com/4DataShare/AbbExpansion">Tools
+and Dataset</a></span><span class=MsoHyperlink><span style='color:windowtext'>]</span></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:71.7pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:71.7pt;text-indent:-17.85pt;mso-list:l3 level2 lfo6;
+tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>[5].<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman"'>Hui Liu</span></b><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-family:DengXian;mso-ascii-theme-font:minor-fareast;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>*</span></b><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>, <span
+class=SpellE>Jiahao</span> <span class=SpellE>Jin</span>, <span class=SpellE>Zzhifeng</span>
+Xu, <span class=SpellE>Yifan</span> Bu, <span class=SpellE>Yanzhen</span>. Zou
+and Lu Zhang, &quot;<a href="https://ieeexplore.ieee.org/document/8807230">Deep
+Learning Based Code Smell Detection</a>&quot;, in IEEE Transactions on Software
+Engineering (<i style='mso-bidi-font-style:normal'>IEEE TSE</i>), Online 2019.
+[<span class=MsoHyperlink><a
+href="https://github.com/liuhuigmail/DeepSmellDetection">Tools and Dataset</a></span><span
+class=MsoHyperlink><span style='color:windowtext'>]</span></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:71.7pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:71.7pt;text-indent:-17.85pt;mso-list:l3 level2 lfo6;
+tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>[6].<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman"'>Hui Liu</span></b><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman"'>; <span class=SpellE>Zhifeng</span> Xu; <span class=SpellE>Yanzhen</span>
+Zou, &quot;<a href="https://ieeexplore.ieee.org/document/8999996">Deep Learning
+Based Feature Envy Detection</a>&quot;</span><span lang=EN-US style='font-family:
+SimSun;mso-bidi-font-family:SimSun'>,</span><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman"'> 33rd IEEE/ACM International Conference on Automated
+Software Engineering (<i style='mso-bidi-font-style:normal'>ASE</i>),
+Montpellier, France, 2018, pp. 385-396 [<span class=MsoHyperlink><a
+href="https://github.com/liuhuigmail/FeatureEnvy">Tools and Dataset</a></span><span
+class=MsoHyperlink><span style='color:windowtext'>]</span></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:71.7pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:71.7pt;text-indent:-17.85pt;mso-list:l3 level2 lfo6;
+tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>[7].<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman"'>Hui Liu</span></b><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-family:DengXian;mso-ascii-theme-font:minor-fareast;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>*</span></b><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>, <span
+class=SpellE>Qiurong</span> Liu, Cristian-<span class=SpellE>Alexandru</span> <span
+class=SpellE>Staicu</span>, Michael <span class=SpellE>Pradel</span>, Yue Luo. <a
+href="https://ieeexplore.ieee.org/document/7886980">Nomen est Omen: Exploring
+and Exploiting Similarities between Argument and Parameter Names</a>. The 38th
+International Conference on Software Engineering (<i style='mso-bidi-font-style:
+normal'>ICSE</i>), 1063-1073</span><span style='font-family:SimSun;mso-bidi-font-family:
+SimSun'>&#65292;</span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>May
+14 - 22, 2016, Austin, TX, USA) <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:71.7pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:71.7pt;text-indent:-17.85pt;mso-list:l3 level2 lfo6;
+tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>[8].<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman"'>Hui Liu</span></b><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-family:DengXian;mso-ascii-theme-font:minor-fareast;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>*</span></b><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>, <span
+class=SpellE>Qiurong</span> Liu, <span class=SpellE>Zhendong</span> Niu, Yang
+Liu. Dynamic and <a href="https://ieeexplore.ieee.org/document/7337457">Automatic
+Feedback-Based Threshold Adaptation for Code Smells Detection</a>, IEEE
+Transactions on Software Engineering (<i style='mso-bidi-font-style:normal'>IEEE
+TSE</i>)</span><span lang=EN-US style='font-family:SimSun;mso-bidi-font-family:
+SimSun'>,</span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>
+vol.42, no.6, pp.544-558, 2016[<span class=MsoHyperlink><a
+href="tools/feedbackTSE.zip">Tools and Dataset</a></span><span
+class=MsoHyperlink><span style='color:windowtext'>]</span></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:71.7pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:71.7pt;text-indent:-17.85pt;mso-list:l3 level2 lfo6;
+tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>[9].<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman"'>Hui Liu</span></b><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-family:DengXian;mso-ascii-theme-font:minor-fareast;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>*</span></b><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>, <span
+class=SpellE>Qiurong</span> Liu, Yang Liu, <span class=SpellE>Zhouding</span>
+Wang, <a href="https://ieeexplore.ieee.org/document/7097720">Identifying
+Renaming Opportunities by Expanding Conducted Rename Refactorings</a>, IEEE
+Transactions on Software Engineering (<i style='mso-bidi-font-style:normal'>IEEE
+TSE</i>)</span><span lang=EN-US style='font-family:SimSun;mso-bidi-font-family:
+SimSun'>,</span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>
+vol.41, no.9, pp.887-900, Sept. 1 2015 [<span class=MsoHyperlink><a
+href="tools/rename/index.htm">Tools and Dataset</a></span><span
+class=MsoHyperlink><span style='color:windowtext'>]</span></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:72.0pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:72.0pt;text-indent:-18.0pt;mso-list:l3 level2 lfo7'><![if !supportLists]><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>[10]. </span></span><![endif]><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman"'>Hui Liu</span></b><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-family:DengXian;mso-ascii-theme-font:minor-fareast;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>*</span></b><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>, <span
+class=SpellE>Xue</span> Guo, and <span class=SpellE>Weizhong</span> Shao, <a
+href="https://ieeexplore.ieee.org/document/6409360">Monitor-based Instant
+Software Refactoring</a>, IEEE Transactions on Software Engineering (<i
+style='mso-bidi-font-style:normal'>IEEE TSE</i>)</span><span lang=EN-US
+style='font-family:SimSun;mso-bidi-font-family:SimSun'>,</span><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'> Volume 39, No. 8,
+pp. 1112-1126, Aug., 2013 [<span class=MsoHyperlink><a
+href="tools/InsRefactor.htm">Tools and Dataset</a></span><span
+class=MsoHyperlink><span style='color:windowtext'>] </span></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;mso-margin-bottom-alt:auto;
+margin-left:72.0pt;mso-para-margin-top:.5gd;mso-margin-bottom-alt:auto;
+mso-para-margin-left:72.0pt;text-indent:-18.0pt;mso-list:l3 level2 lfo7;
+mso-layout-grid-align:none'><![if !supportLists]><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>[11]. </span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Hui
+Liu</span></b><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='font-family:DengXian;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+minor-fareast;mso-hansi-theme-font:minor-fareast'>*</span></b><span lang=EN-US
+style='mso-fareast-font-family:"Times New Roman"'>, <span class=SpellE>Zhiyi</span>
+Ma, <span class=SpellE>Weizhong</span> Shao, and <span class=SpellE>Zhendong</span>
+Niu, <a href="https://ieeexplore.ieee.org/document/5680918">Schedule of Bad
+Smell Detection and Resolution: A New Way to Save Effort</a>, IEEE Transactions
+on Software Engineering (<i style='mso-bidi-font-style:normal'>IEEE TSE</i>)</span><span
+lang=EN-US style='font-family:SimSun;mso-bidi-font-family:SimSun'>,</span><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'> vol.38, no.1,
+pp.220-235, Jan.-Feb. 2012<o:p></o:p></span></p>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style='mso-fareast-font-family:"Times New Roman"'>
+
+<hr size=5 width="100%" align=center>
+
+</span></div>
+
+</div>
+
+</body>
+
+</html>
