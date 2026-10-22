@@ -1,0 +1,655 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<meta name="author" content="Hui Liu">
+<meta name="description" content="Hui Liu, Professor and Ph.D. Supervisor at the School of Computer Science and Technology, Beijing Institute of Technology. Research, news, open-source contributions, community service, and publications.">
+<title>Hui Liu | Beijing Institute of Technology</title>
+<link rel="canonical" href="https://liuhuigmail.github.io/">
+<style>
+:root {
+  color-scheme: light;
+  --paper: #ffffff;
+  --canvas: #f5f7f8;
+  --ink: #182c3e;
+  --body: #334455;
+  --muted: #596c7a;
+  --accent: #176171;
+  --accent-soft: #eef5f5;
+  --line: #dde4e8;
+  --news-link: #2457a0;
+  --news-date: #255779;
+  --news-date-bg: #edf4fa;
+  --celebrate: #873c13;
+  --celebrate-bg: #fff0db;
+  --award: #775614;
+  --page-width: 1240px;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 110px; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--body);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+  font-size: 19px;
+  line-height: 1.8;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: .2em; }
+a:hover { color: var(--ink); }
+a:focus-visible, summary:focus-visible { outline: 3px solid var(--accent); outline-offset: 5px; border-radius: 2px; }
+::selection { background: #d9ebed; color: var(--ink); }
+img { display: block; max-width: 100%; height: auto; }
+strong { font-weight: 650; color: var(--ink); }
+p { margin: 0 0 1.2em; }
+p:last-child { margin-bottom: 0; }
+sup { font-size: .7em; line-height: 0; position: relative; vertical-align: super; }
+.wrap { width: min(var(--page-width), calc(100% - 64px)); margin-inline: auto; }
+.skip-link { position: absolute; top: -100px; left: 24px; z-index: 100; padding: 10px 16px; background: white; color: var(--ink); }
+.skip-link:focus { top: 10px; }
+.site-header { position: sticky; z-index: 20; top: 0; background: var(--paper); border-bottom: 1px solid var(--line); }
+.header-inner { min-height: 82px; display: flex; align-items: center; justify-content: space-between; gap: 32px; }
+.wordmark { font-family: Georgia, "Times New Roman", serif; font-size: 25px; letter-spacing: -.8px; font-weight: 700; color: var(--ink); text-decoration: none; white-space: nowrap; }
+.site-nav { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 27px; }
+.site-nav a { font-size: 16px; font-weight: 550; color: #435b6d; text-decoration: none; padding: 10px 0; border-bottom: 2px solid transparent; }
+.site-nav a:hover, .site-nav a:focus-visible { color: var(--accent); border-bottom-color: var(--accent); }
+.hero-band { background: var(--canvas); border-bottom: 1px solid var(--line); }
+.hero { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1.12fr); align-items: stretch; gap: 56px; padding-block: 64px; }
+.hero-identity { min-width: 0; }
+.hero h1 { font-family: Georgia, "Times New Roman", serif; font-size: clamp(48px,5.2vw,72px); letter-spacing: -2.5px; font-weight: 500; color: var(--ink); line-height: 1.06; margin: 0 0 13px; }
+.hero .position { margin: 0 0 24px; color: var(--accent); font-size: 21px; font-weight: 600; letter-spacing: .035em; }
+.affiliation { font-size: 19px; line-height: 1.7; }
+.affiliation a { color: var(--ink); text-decoration: none; }
+.affiliation a:hover { text-decoration: underline; }
+.hero .location { margin-top: 12px; color: var(--muted); font-size: 18px; }
+.hero .email { display: inline-flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 19px; margin-top: 23px; }
+.hero .email span { color: var(--muted); font-size: 15px; text-transform: uppercase; letter-spacing: .1em; }
+.hero-photo { position: relative; align-self: stretch; min-width: 0; min-height: 0; margin: 0; overflow: hidden; border: 7px solid white; border-radius: 6px; box-shadow: 0 9px 28px rgba(24,44,62,.09); background: #e6edef; }
+.hero-photo img { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: auto; object-fit: cover; object-position: center; }
+.section { display: grid; grid-template-columns: 220px minmax(0,1fr); gap: 48px; padding-block: 56px; border-bottom: 1px solid var(--line); scroll-margin-top: 102px; }
+.section-heading { min-width: 0; }
+.section-heading-inner { position: sticky; top: 114px; }
+.section-index { font-size: 14px; letter-spacing: .12em; color: var(--accent); margin: 0 0 12px; display: block; }
+h2 { font-family: Georgia, "Times New Roman", serif; font-size: 34px; font-weight: 500; color: var(--ink); line-height: 1.24; letter-spacing: -.5px; margin: 0; }
+.section-heading .subtitle { font-size: 16px; color: var(--muted); margin-top: 12px; line-height: 1.6; }
+.section-body { min-width: 0; }
+#about .section-body { font-size: 19px; }
+.student-note { border-left: 3px solid var(--accent); background: var(--accent-soft); padding: 20px 24px; margin-top: 30px; font-size: 19px; }
+.news-list { list-style: none; margin: 0; padding: 0; }
+.news-item { display: grid; grid-template-columns: 120px minmax(0,1fr); gap: 24px; align-items: start; padding: 25px 0; border-top: 1px solid #e6ecf0; }
+.news-item:first-child { padding-top: 0; border-top: 0; }
+.news-item:last-child { padding-bottom: 0; }
+.news-item time { color: var(--news-date); background: var(--news-date-bg); font-size: 16px; line-height: 1.5; font-weight: 650; font-variant-numeric: tabular-nums; white-space: nowrap; padding: 5px 9px; border-radius: 5px; display: inline-block; width: fit-content; margin-top: 2px; }
+.news-item p { margin: 0; font-size: 19px; line-height: 1.85; }
+.news-item a, .news-paper { color: var(--news-link); font-weight: 600; }
+.news-item a { text-decoration: none; }
+.news-item a:hover, .news-item a:focus-visible { color: #163f79; text-decoration: underline; }
+.news-item .congrats-name { color: var(--celebrate); background: var(--celebrate-bg); font-weight: 750; padding: .05em .3em; border-radius: .22em; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+.news-item .news-award { color: var(--award); font-weight: 700; }
+.contribution-list { list-style: none; padding: 0; margin: 0; counter-reset: contribution; }
+.contribution-list li { position: relative; padding: 0 0 26px 36px; margin-bottom: 26px; border-bottom: 1px solid #ecf0f2; counter-increment: contribution; }
+.contribution-list li:last-child { border-bottom: 0; margin-bottom: 0; padding-bottom: 0; }
+.contribution-list li::before { position: absolute; left: 0; top: 0; content: counter(contribution, decimal-leading-zero); color: var(--muted); font: 15px/2.3 ui-monospace, "SFMono-Regular", Consolas, monospace; }
+.contribution-list p { font-size: 19px; margin: 0; }
+.contribution-list .contribution-link { margin-top: 9px; font-size: 16px; line-height: 1.7; overflow-wrap: anywhere; }
+.contribution-link a { text-decoration: none; }
+.contribution-link a:hover { text-decoration: underline; }
+.service-list { margin: 0; }
+.service-row { display: grid; grid-template-columns: 66px minmax(0,1fr); gap: 25px; padding: 22px 0; border-top: 1px solid #ecf0f2; }
+.service-row:first-child { padding-top: 0; border-top: 0; }
+.service-row:last-child { padding-bottom: 0; }
+.service-row dt { color: var(--accent); font-size: 18px; font-weight: 600; }
+.service-row dd { margin: 0; font-size: 19px; }
+.dblp-link { font-size: 16px; line-height: 1.7; display: inline-block; margin-top: 20px; max-width: 210px; }
+.hui-liu-publications { margin: 0; padding-left: 2.8em; font-size: 19px; line-height: 1.85; }
+.hui-liu-publications > li { padding: 0 0 24px .35em; margin: 0 0 24px; border-bottom: 1px solid #edf0f2; overflow-wrap: anywhere; }
+.hui-liu-publications > li:last-child { border: 0; padding-bottom: 0; margin-bottom: 0; }
+.hui-liu-publications > li::marker { content: "[" counter(list-item) "] "; color: var(--muted); font-family: ui-monospace, "SFMono-Regular", Consolas, monospace; font-size: 15px; }
+.hui-liu-publications a { font-weight: 600; text-decoration: none; }
+.hui-liu-publications a:hover, .hui-liu-publications a:focus-visible { text-decoration: underline; }
+.hui-liu-publications em { color: #4c5d68; }
+.hui-liu-publications strong { font-weight: 750; }
+.hui-liu-publications sup { font-size: .75em; }
+.site-footer { padding-block: 30px 42px; }
+.footer-inner { display: flex; justify-content: space-between; align-items: center; gap: 20px; color: var(--muted); font-size: 16px; }
+.footer-inner p { margin: 0; }
+.footer-inner a { text-decoration: none; }
+@media (min-width: 1400px) { .hero { padding-block: 70px; } }
+@media (max-width: 980px) {
+  .wrap { width: calc(100% - 48px); }
+  .hero { gap: 32px; grid-template-columns: minmax(0,1fr) minmax(0,1.08fr); padding-block: 45px; }
+  .hero h1 { font-size: 59px; }
+  .hero .position { margin-bottom: 16px; }
+  .section { grid-template-columns: 200px minmax(0,1fr); gap: 30px; }
+  .site-nav { gap: 9px 20px; }
+  h2 { font-size: 32px; }
+  .news-item { grid-template-columns: 1fr; gap: 12px; }
+}
+@media (max-width: 720px) {
+  html { scroll-padding-top: 24px; }
+  body { font-size: 18px; }
+  .wrap { width: calc(100% - 40px); }
+  .site-header { position: static; }
+  .header-inner { padding-block: 17px 11px; display: block; }
+  .wordmark { display: inline-block; font-size: 23px; }
+  .site-nav { margin-top: 9px; gap: 2px 20px; }
+  .site-nav a { font-size: 16px; padding-block: 7px; }
+  .hero { display: grid; grid-template-columns: 1fr; gap: 30px; padding-block: 33px 38px; }
+  .hero h1 { font-size: 57px; }
+  .hero .position { font-size: 20px; margin-bottom: 17px; }
+  .hero .affiliation, .hero .email { font-size: 18px; }
+  .hero .email { margin-top: 17px; }
+  .hero-photo { max-width: none; width: 100%; border-width: 5px; aspect-ratio: 786 / 444; }
+  .hero-photo img { object-fit: contain; }
+  .section { display: block; padding-block: 40px; scroll-margin-top: 24px; }
+  .section-heading { margin-bottom: 26px; }
+  .section-heading-inner { position: static; }
+  .section-index { font-size: 14px; margin-bottom: 8px; }
+  h2 { font-size: 32px; }
+  .section-heading .subtitle { margin-top: 7px; }
+  #about .section-body { font-size: 18px; }
+  .student-note { margin-top: 24px; padding: 18px; font-size: 18px; }
+  .news-item { display: block; padding-block: 23px; }
+  .news-item time { margin: 0 0 11px; font-size: 16px; }
+  .news-item p { font-size: 18px; }
+  .contribution-list p, .service-row dd { font-size: 18px; }
+  .contribution-list .contribution-link { font-size: 16px; }
+  .service-row { gap: 17px; grid-template-columns: 55px minmax(0,1fr); }
+  .service-row dt { font-size: 17px; }
+  .dblp-link { max-width: none; margin-top: 12px; }
+  .hui-liu-publications { font-size: 18px; padding-left: 2.75em; line-height: 1.85; }
+  .hui-liu-publications > li { padding-left: .15em; padding-bottom: 21px; margin-bottom: 21px; }
+  .hui-liu-publications > li::marker { font-size: 15px; }
+  .footer-inner { display: block; font-size: 16px; }
+  .footer-inner a { display: inline-block; margin-top: 11px; }
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+@media print {
+  :root { --ink: #000; --body: #222; --accent: #000; --muted: #555; --news-link: #000; --news-date: #333; --celebrate: #000; --award: #000; }
+  .site-header, .skip-link, .section-index, .site-footer { display: none; }
+  .wrap { width: 100%; }
+  body { font-size: 11pt; }
+  .hero-band { background: white; }
+  .hero { grid-template-columns: 1fr 210px; padding-block: 16px; gap: 25px; }
+  .hero h1 { font-size: 34pt; }
+  .hero .affiliation, .hero .position, .hero .email, .hero .location { font-size: 12pt; }
+  .hero .email span { font-size: 10pt; }
+  .hero-photo { border: 0; box-shadow: none; align-self: center; aspect-ratio: 786 / 444; }
+  .hero-photo img { object-fit: contain; }
+  .section { display: block; padding-block: 18px; }
+  .section-heading { margin-bottom: 14px; }
+  .section-heading-inner { position: static; }
+  h2 { font-size: 20pt; }
+  .section-body, #about .section-body, .news-item p, .contribution-list p, .service-row dd, .hui-liu-publications, .student-note { font-size: 11pt; }
+  .news-item { grid-template-columns: 100px minmax(0,1fr); gap: 18px; }
+  .news-item time { font-size: 10pt; padding: 0; background: transparent; }
+  .news-item .congrats-name { background: transparent; padding: 0; }
+  .contribution-list .contribution-link, .service-row dt, .dblp-link { font-size: 10pt; }
+  .hui-liu-publications > li::marker { font-size: 9pt; }
+  .student-note { background: transparent; }
+  .news-item, .contribution-list li, .service-row, .hui-liu-publications li { break-inside: avoid; }
+  .hui-liu-publications a { font-weight: 400; }
+  a { text-decoration: none; }
+}
+</style>
+</head>
+<body id="top">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="wordmark" href="#top" aria-label="Hui Liu, back to top">Hui Liu</a>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="#about">About</a>
+      <a href="#news">News</a>
+      <a href="#open-source">Open source</a>
+      <a href="#service">Service</a>
+      <a href="#publications">Publications</a>
+    </nav>
+  </div>
+</header>
+<div class="hero-band">
+  <div class="wrap hero">
+    <div class="hero-identity">
+      <h1>Hui Liu</h1>
+      <p class="position">Professor &amp; Ph.D. Supervisor</p>
+      <div class="affiliation">
+        <a href="https://cs.bit.edu.cn/" target="_blank" rel="noopener noreferrer">School of Computer Science and Technology</a><br>
+        <a href="https://english.bit.edu.cn/" target="_blank" rel="noopener noreferrer">Beijing Institute of Technology</a>
+      </div>
+      <p class="location">Beijing, China</p>
+      <div class="email"><span>Email</span><a href="mailto:liuhui08@bit.edu.cn">liuhui08@bit.edu.cn</a></div>
+    </div>
+    <figure class="hero-photo">
+      <img src="image001.jpg" alt="Hui Liu" width="786" height="444" fetchpriority="high" decoding="async">
+    </figure>
+  </div>
+</div>
+<main id="main" class="wrap">
+  <section class="section" id="about" aria-labelledby="about-heading">
+    <div class="section-heading"><div class="section-heading-inner"><span class="section-index" aria-hidden="true">01 / ABOUT</span><h2 id="about-heading">About</h2></div></div>
+    <div class="section-body"><p>I am a professor and Ph.D. supervisor in the <a href="https://www.cs.bit.edu.cn/" target="_blank" rel="noopener noreferrer">School of Computer Science and Technology</a> at the <a href="https://english.bit.edu.cn/" target="_blank" rel="noopener noreferrer">Beijing Institute of Technology</a>. I was formerly a graduate student at the <a href="https://www.sei.pku.edu.cn/" target="_blank" rel="noopener noreferrer">Software Engineering Institute</a>, <a href="https://english.pku.edu.cn/" target="_blank" rel="noopener noreferrer">Peking University</a>. I defended my PhD thesis in June 2008.</p>
+<p>My research interests include AI-based software development, in particular: LLM-based program generation; evaluation and testing of LLMs, software refactoring; software quality; LLM-based software testing; automatic construction of software engineering datasets. My work is funded in part by the National Natural Science Foundation of China, and the National Key Research and Development Program of China.</p>
+<p>I am a recipient of <strong>three ACM Distinguished Paper Awards</strong> from 31<sup>st</sup> ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023), 44<sup>th</sup> International Conference on Software Engineering (ICSE 2022), and 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026), respectively.</p>
+<p>I also received the RE'2021 Best Research Paper Award (2021), IET Software Premium Award (2018), New Century Excellent Talents in University (2013), and Beijing Higher Education Young Elite Teacher (2013). I am also a distinguished member of China Computer Federation (<span lang="zh-CN">中国计算机学会杰出会员</span>), and Secretary-General <span lang="zh-CN">（秘书长）</span>of the CCF Technical Committee on Software Engineering (TCSE).</p>
+<div class="student-note"><p>I am always looking for self-motivated students to work with me.<br>Contact me by eMail if you are interested in LLMs, software engineering, natural language processing, or data mining.</p></div></div>
+  </section>
+  <section class="section" id="news" aria-labelledby="news-heading">
+    <div class="section-heading"><div class="section-heading-inner"><span class="section-index" aria-hidden="true">02 / UPDATES</span><h2 id="news-heading">News</h2></div></div>
+    <div class="section-body"><ul class="news-list">
+<li class="news-item"><time datetime="2025-10-10">2025/10/10</time><p>Our paper “<a href="https://dl.acm.org/doi/10.1145/3849693" rel="noopener noreferrer" target="_blank">A Survey of Deep Learning Based Software Refactoring</a>” has been published on ACM Computing Surveys. Congratulations to <strong class="congrats-name">Bridget Nyirongo</strong>!</p></li>
+<li class="news-item"><time datetime="2025-09-14">2025/9/14</time><p>Our paper “<a href="https://ieeexplore.ieee.org/abstract/document/11152505" rel="noopener noreferrer" target="_blank">An Empirical Study of Software Refactorings in Real-World Open-Source Java Projects</a>” has been published on IEEE Transactions on Software Engineering. Congratulations to <strong class="congrats-name">Bridget Nyirongo</strong> (Ph.D student)!</p></li>
+<li class="news-item"><time datetime="2026-07-08">2026/7/8</time><p>Our paper “<span class="news-paper">Enhancing LLM-based Bug Reproduction via Code Entity Retrieval and Test Case Repair</span>” has been accepted by 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026). Congratulations to <strong class="congrats-name">Hao Ding</strong> (Ph.D student) !</p></li>
+<li class="news-item"><time datetime="2026-06-04">2026/6/4</time><p>Our paper “<span class="news-paper">Extracting Conditional Expressions as Local Variables: Frequency, Motivation, and Automated Recommendation</span>” has been accepted by IEEE Transactions on Software Engineering. Congratulations to <strong class="congrats-name">Bridget Nyirongo</strong> (Ph.D student) for her third top paper !</p></li>
+<li class="news-item"><time datetime="2026-04-20">2026/4/20</time><p>Our paper “<span class="news-paper">Evaluating Generated Commit Messages with Large Language Models</span>” has selected as <strong class="news-award">ICSE 2026 Distinguished Paper</strong> !</p></li>
+<li class="news-item"><time datetime="2026-04-20">2026/4/20</time><p>Our paper “<span class="news-paper">From Custom Logic to APIs: Understanding and Recommending API Replacement Refactorings</span>” has been accepted by 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026). Congratulations to <strong class="congrats-name">Bridget Nyirongo</strong> (Ph.D student) !</p></li>
+<li class="news-item"><time datetime="2026-04-20">2026/4/20</time><p>Our paper “<span class="news-paper">Testing Method Relocation Algorithms via Template-Based Systematic Structural Traversal and Precondition Filtering</span>” has been accepted by 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026). Congratulations to <strong class="congrats-name">Chunhao Dong</strong> (Ph.D student) !</p></li>
+<li class="news-item"><time datetime="2026-03-25">2026/3/25</time><p>Our paper “<span class="news-paper">A Cross-Language Approach to Recommending Method Names According to Functional Descriptions</span>” has been accepted by IEEE Transactions on Software Engineering. Congratulations to <strong class="congrats-name">Waseem Akram</strong> (Ph.D student) !</p></li>
+<li class="news-item"><time datetime="2026-03-25">2026/3/25</time><p>Our paper “<span class="news-paper">Cross-Refactoring-Type Test Program Migration for Refactoring Engines</span>” has been accepted by ACM International Conference on the Foundations of Software Engineering (FSE 2026). Congratulations to <strong class="congrats-name">Chunhao Dong</strong> (Ph.D student) !</p></li>
+<li class="news-item"><time datetime="2025-10-17">2025/10/17</time><p>Our paper “<span class="news-paper">LLM-based API Argument Completion with Knowledge-Augmented Prompts</span>” has been accepted by the 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026). Congratulations to <strong class="congrats-name">Waseem Akram</strong> (Ph.D student) !</p></li>
+<li class="news-item"><time datetime="2025-10-12">2025/10/12</time><p>Our paper “<span class="news-paper">Evaluating and Improving GPT-Based Expansion of Abbreviations</span>” has been accepted by IEEE Transactions on Software Engineering. Congratulations to <strong class="congrats-name">Yanjie Jiang</strong>！</p></li>
+<li class="news-item"><time datetime="2025-09-26">2025/9/26</time><p>Our paper “<span class="news-paper">LLM-Based Identification of Null Pointer Exception Patches</span>” has been accepted by the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025). Congratulations to <strong class="congrats-name">Tahir Ullah</strong> (Ph.D student) !</p></li>
+<li class="news-item"><time datetime="2025-09-26">2025/9/26</time><p>Our paper “<span class="news-paper">Wired for Reuse: Automating Context-Aware Code Adaptation in IDEs via LLM-Based Agent</span>” has been accepted by the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025). Congratulations to <strong class="congrats-name">Taiming Wang</strong> (Ph.D student) !</p></li>
+<li class="news-item"><time datetime="2025-09-21">2025/9/21</time><p><span lang="zh-CN">牵头获得<strong class="news-award">中国计算机学会科技成果（自然科学）二等奖</strong>。<br>项目名称：基于软件重构的软件质量保障理论与方法<br>完成单位：北京理工大学、北京大学<br/>主要完成人：刘辉、计卫星、张路、江贺、姜艳杰、张宇霞</br></br></span></p></li>
+<li class="news-item"><time datetime="2025-06-21">2025/6/21</time><p>My Ph.D student <strong class="congrats-name">Waseem</strong> (from Pakistan) was awarded the title of <strong class="news-award">Outstanding Graduate</strong>!</p></li>
+<li class="news-item"><time datetime="2025-06-14">2025/6/14</time><p>Our paper “<a href="https://dl.acm.org/doi/10.1145/3744919" rel="noopener noreferrer" target="_blank">POS Tagging on Code Identifiers: How Far Are We?</a>” has been published on ACM Transactions on Software Engineering and Methodology. Congratulations to <strong class="congrats-name">Hanlin Tang</strong> (Ph.D student)!</p></li>
+<li class="news-item"><time datetime="2025-06-13">2025/6/13</time><p>Our paper “<a href="https://ieeexplore.ieee.org/document/11049955" rel="noopener noreferrer" target="_blank">OneMoreTest: A Learning-Based Approach to Generating and Selecting Fault-Revealing Unit Tests</a>” has been accepted by IEEE Transactions on Software Engineering. Congratulations to <strong class="congrats-name">Wei Wei</strong> (master student)!</p></li>
+<li class="news-item"><time datetime="2025-03-07">2025/3/7</time><p>Our paper “<a href="https://ieeexplore.ieee.org/document/10855639" rel="noopener noreferrer" target="_blank">An Automated Approach to Discovering Software Refactorings by Comparing Successive Versions</a>” has been accepted by IEEE Transactions on Software Engineering. Congratulations to <strong class="congrats-name">Bo Liu</strong> (Ph.D student)!</p></li>
+<li class="news-item"><time datetime="2025-02-14">2025/2/14</time><p>Our paper “<a href="https://dl.acm.org/doi/10.1145/3718083" rel="noopener noreferrer" target="_blank">An Empirical Study on the Relationship Between Defects and Source Code's Unnaturalness</a>” has been accepted by ACM Transactions on Software Engineering and Methodology. Congratulations to <strong class="congrats-name">Yanjie Jiang</strong> (former Ph.D student)!</p></li>
+<li class="news-item"><time datetime="2025-01-15">2025/1/15</time><p>Our paper “<a href="https://dl.acm.org/doi/10.1145/3715765" rel="noopener noreferrer" target="_blank">Has My Code Been Stolen for Model Training? A Naturalness Based Approach to Code Contamination Detection</a>” has been accepted by 33rd ACM International Conference on the Foundations of Software Engineering (FSE 2025). Congratulations to <strong class="congrats-name">Haris Ali Khan</strong> (Ph.D student)!</p></li>
+<li class="news-item"><time datetime="2025-01-15">2025/1/15</time><p>Our paper “<a href="https://dl.acm.org/doi/10.1145/3715753" rel="noopener noreferrer" target="_blank">LLM-based Method Name Suggestion with Automatically Generated Context-Rich Prompts</a>” has been accepted by 33rd ACM International Conference on the Foundations of Software Engineering (FSE 2025). Congratulations to <strong class="congrats-name">Waseem Akram</strong> (Ph.D student)!</p></li>
+<li class="news-item"><time datetime="2025-01-15">2025/1/15</time><p>Our paper “<a href="https://dl.acm.org/doi/10.1145/3715110" rel="noopener noreferrer" target="_blank">Automated Recommendation of Extracting Local Variable Refactorings</a>” has been accepted by ACM Transactions on Software Engineering and Methodology. Congratulations to <strong class="congrats-name">Yanjie Jiang</strong> (former Ph.D student)!</p></li>
+</ul></div>
+  </section>
+  <section class="section" id="open-source" aria-labelledby="open-source-heading">
+    <div class="section-heading"><div class="section-heading-inner"><span class="section-index" aria-hidden="true">03 / OPEN SOURCE</span><h2 id="open-source-heading">Contributions to Open Source Community</h2></div></div>
+    <div class="section-body"><ol class="contribution-list"><li><p>Merged into Eclipse: Improve the safety of Extract Local Variable Refactorings concering ClassCasts #331 #333</p><p class="contribution-link">(<a href="https://github.com/eclipse-jdt/eclipse.jdt.ui/pull/333#issuecomment-1347076136" target="_blank" rel="noopener noreferrer">https://github.com/eclipse-jdt/eclipse.jdt.ui/pull/333#issuecomment-1347076136</a>)</p></li>
+<li><p>Merged into Eclipse: Improve the safety of Extract Local Variable Refactorings, concerning NullPointerException #39</p><p class="contribution-link">(<a href="https://github.com/eclipse-jdt/eclipse.jdt.ui/commit/2987007d9703de02eea83081a0b7b65fdc6e4a84" target="_blank" rel="noopener noreferrer">https://github.com/eclipse-jdt/eclipse.jdt.ui/commit/2987007d9703de02eea83081a0b7b65fdc6e4a84</a>)</p></li>
+<li><p>Merged into Eclipse: Improve the safety of &quot;Extract Local Variable&quot; refactorings by identifying statements that may change the value of the extracted expressions #432 #439</p><p class="contribution-link">(<a href="https://github.com/eclipse-jdt/eclipse.jdt.ui/pull/439" target="_blank" rel="noopener noreferrer">https://github.com/eclipse-jdt/eclipse.jdt.ui/pull/439</a>)</p></li>
+<li><p>Merged into Eclipse: Automated name recommendation for Extract Local Variable Refactoring</p><p class="contribution-link">(<a href="https://github.com/eclipse-jdt/eclipse.jdt.ui/issues/601" target="_blank" rel="noopener noreferrer">https://github.com/eclipse-jdt/eclipse.jdt.ui/issues/601</a>)</p></li>
+<li><p>Merged into Eclipse: Context-based Automated Name Recommendation For The Extract Local Variable Refactoring #655</p><p class="contribution-link">(<a href="https://github.com/eclipse-jdt/eclipse.jdt.ui/pull/656#issuecomment-1648693226" target="_blank" rel="noopener noreferrer">https://github.com/eclipse-jdt/eclipse.jdt.ui/pull/656#issuecomment-1648693226</a>)</p></li></ol></div>
+  </section>
+  <section class="section" id="service" aria-labelledby="service-heading">
+    <div class="section-heading"><div class="section-heading-inner"><span class="section-index" aria-hidden="true">04 / SERVICE</span><h2 id="service-heading">Community Service</h2><p class="subtitle">Since 2020</p></div></div>
+    <div class="section-body"><dl class="service-list"><div class="service-row"><dt>2026</dt><dd>ISSTA 2026 PC, ICSE 2027 PC, ASE 2026 PC, ICSE 2027 Virtualization Co-Chair, ACM TOSEM Review Committee, IET Software AE, <span lang="zh-CN">2026 中国软件大会</span> PC Co-Chair.</dd></div>
+<div class="service-row"><dt>2025</dt><dd><span lang="zh-CN">CCF中国软件大会 程序委员会主席</span>，FSE PC (meta-reviewer), ISSTA PC,</dd></div>
+<div class="service-row"><dt>2024</dt><dd>ASE PC, ISSTA PC, <a href="https://digital-library.theiet.org/content/journals/iet-sen" target="_blank" rel="noopener noreferrer">IET Software</a> AE, <a href="https://ieeeaccess.ieee.org/" target="_blank" rel="noopener noreferrer">IEEE Access</a> AE</dd></div>
+<div class="service-row"><dt>2023</dt><dd>ESEC/FSE PC, ASE PC, IET Software AE, <span lang="zh-CN">《软件学报》 特邀编辑，《计算机研究与发展》 特邀编辑</span></dd></div>
+<div class="service-row"><dt>2022</dt><dd><a href="https://conf.researchr.org/home/ase-2022" target="_blank" rel="noopener noreferrer">ASE</a> PC, <a href="https://cyprusconferences.org/icsme2022/" target="_blank" rel="noopener noreferrer">ICSME</a> PC, <a href="https://saner2022.uom.gr/" target="_blank" rel="noopener noreferrer">SANER</a> PC, <a href="https://digital-library.theiet.org/content/journals/iet-sen" target="_blank" rel="noopener noreferrer">IET Software</a> AE, <a href="https://ieeeaccess.ieee.org/" target="_blank" rel="noopener noreferrer">IEEE Access</a> AE, <a href="https://onlinelibrary.wiley.com/journal/20477481" target="_blank" rel="noopener noreferrer">Journal of Software: Evolution and Process</a> Guest Editor.</dd></div>
+<div class="service-row"><dt>2021</dt><dd><a href="https://icsme2021.github.io/" target="_blank" rel="noopener noreferrer">ICSME</a> PC, <a href="https://saner2021.shidler.hawaii.edu/" target="_blank" rel="noopener noreferrer">SANER</a> PC, <a href="https://internetware2020.github.io/" target="_blank" rel="noopener noreferrer">Internetware</a> PC, <a href="https://ieeecompsac.computer.org/2021/" target="_blank" rel="noopener noreferrer">COMPSAC</a> PC, <a href="https://digital-library.theiet.org/content/journals/iet-sen" target="_blank" rel="noopener noreferrer">IET Software</a> AE, <a href="https://ieeeaccess.ieee.org/" target="_blank" rel="noopener noreferrer">IEEE Access</a> AE</dd></div>
+<div class="service-row"><dt>2020</dt><dd><a href="https://icsme2020.github.io/" target="_blank" rel="noopener noreferrer">ICSME</a> PC, <a href="https://conf.saner2021.site/" target="_blank" rel="noopener noreferrer">SANER</a> PC, <a href="https://www.re20.org/" target="_blank" rel="noopener noreferrer">RE</a> Posters and Demos Track PC, <a href="https://compsac.org/2020/" target="_blank" rel="noopener noreferrer">COMPSAC</a> PC, <a href="https://internetware2020.github.io/" target="_blank" rel="noopener noreferrer">Internetware</a> PC, <a href="https://digital-library.theiet.org/content/journals/iet-sen" target="_blank" rel="noopener noreferrer">IET Software</a> AE, <a href="https://www.springer.com/journal/10664" target="_blank" rel="noopener noreferrer">EMSE</a> Guest Editor, <a href="https://www.journals.elsevier.com/journal-of-systems-and-software" target="_blank" rel="noopener noreferrer">JSS</a> Guest Editor</dd></div></dl></div>
+  </section>
+  <section class="section" id="publications" aria-labelledby="publications-heading">
+    <div class="section-heading"><div class="section-heading-inner"><span class="section-index" aria-hidden="true">05 / PUBLICATIONS</span><h2 id="publications-heading">Research</h2><a href="https://dblp.dagstuhl.de/pid/93/4010-3.html" class="dblp-link" target="_blank" rel="noopener noreferrer">Full publication list available at DBLP</a></div></div>
+    <div class="section-body"><ol class="hui-liu-publications">
+<li>
+    Waseem Akram, Yanjie Jiang, Haris Ali Khan, Furqan Jalil, <strong>Hui Liu</strong><sup>*</sup>.
+    <a href="https://doi.org/10.1109/TSE.2026.3679551" rel="noopener noreferrer" target="_blank">A Cross-Language Approach to Recommending Method Names According to Functional Descriptions</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2026, 52(5): 1719–1738.
+  </li>
+<li>
+    Minyu Shu, Meng Fan, Yuxia Zhang<sup>*</sup>, Tao Wang, <strong>Hui Liu</strong>.
+    <a href="https://doi.org/10.1109/TSE.2026.3660015" rel="noopener noreferrer" target="_blank">A Deep Dive Into Deprecation Declarations in the Rust Package Ecosystem</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2026, 52(3): 1145–1161.
+  </li>
+<li>
+    Bridget Nyirongo, Yanjie Jiang<sup>†</sup>, He Jiang, <strong>Hui Liu</strong>.
+    <a href="https://dl.acm.org/doi/10.1145/3849693" rel="noopener noreferrer" target="_blank">A Survey of Deep Learning Based Software Refactoring</a> [J].
+    <em>ACM Computing Surveys</em>, 2026.
+  </li>
+<li>
+    Yike Li, Yuxia Zhang<sup>*</sup>, Qunhong Zeng, Lin Shi, Xin Tan, Tao Wang, Yanjie Jiang, <strong>Hui Liu</strong>.
+    <a href="https://doi.org/10.1109/TSE.2026.3681776" rel="noopener noreferrer" target="_blank">An Empirical Study of Overlooked Code Review Comments in OSS Projects</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2026, 52(5): 1704–1718.
+  </li>
+<li>
+    Yuxia Zhang, Klaas-Jan Stol, Minghui Zhou, Qunhong Zeng, Mian Qin, <strong>Hui Liu</strong>.
+    <a href="https://dl.acm.org/doi/10.1145/3789503" rel="noopener noreferrer" target="_blank">Contributions, Collaborations, and Transitions: Paid and Volunteer Developers in the Rust Community</a> [J].
+    <em>ACM Transactions on Software Engineering and Methodology</em>, 2026.
+  </li>
+<li>
+    Chunhao Dong, Yanjie Jiang, Yang Zhang, Yuxia Zhang, <strong>Hui Liu</strong>.
+    <a href="https://dl.acm.org/doi/10.1145/3808151" rel="noopener noreferrer" target="_blank">Cross-Refactoring-Type Test Program Migration for Refactoring Engines</a> [J].
+    <em>Proceedings of the ACM on Software Engineering (FSE)</em>, 2026.
+  </li>
+<li>
+    Ye Tang, Aoyang Yan, <strong>Hui Liu</strong>, Na Meng, Hao Zhong<sup>*</sup>.
+    <a href="https://dl.acm.org/doi/10.1145/3750041" rel="noopener noreferrer" target="_blank">Detecting Outdated Screenshot from GUI Document</a> [J].
+    <em>ACM Transactions on Software Engineering and Methodology</em>, 2026, 35(5): Article 133.
+  </li>
+<li>
+    Zixiao Zhao, Yanjie Jiang<sup>†</sup>, <strong>Hui Liu</strong>, Lu Zhang.
+    <a href="https://dl.acm.org/doi/10.1145/3832293" rel="noopener noreferrer" target="_blank">Empowering Lightweight Language Models for Security Code Review via Context-Aware Distillation</a> [J].
+    <em>Proceedings of the ACM on Software Engineering</em>, 2026, 3(ISSTA): 4629–4652.
+  </li>
+<li>
+    Hao Ding, Yanjie Jiang<sup>†</sup>, Yuxia Zhang, <strong>Hui Liu</strong>.
+    <a href="https://dl.acm.org/doi/10.1145/3832247" rel="noopener noreferrer" target="_blank">Enhancing LLM-Based Bug Reproduction via Code Entity Retrieval and Test Case Repair</a> [J].
+    <em>Proceedings of the ACM on Software Engineering</em>, 2026, 3(ISSTA): 3569–3590.
+  </li>
+<li>
+    Qunhong Zeng, Yuxia Zhang<sup>*</sup>, Zexiong Ma, Bo Jiang, Ningyuan Sun, Klaas-Jan Stol, Xingyu Mou, <strong>Hui Liu</strong>.
+    <a href="https://dl.acm.org/doi/10.1145/3744916.3764569" rel="noopener noreferrer" target="_blank">Evaluating Generated Commit Messages with Large Language Models</a> [C].
+    <em>IEEE/ACM International Conference on Software Engineering (ICSE)</em>, 2026: 362–373.
+  </li>
+<li>
+    Bridget Nyirongo, Yanjie Jiang<sup>†</sup>, Yuxia Zhang, <strong>Hui Liu</strong>.
+    <a href="https://ieeexplore.ieee.org/document/11579789" rel="noopener noreferrer" target="_blank">Extracting Conditional Expressions as Local Variables: Frequency, Motivation, and Automated Recommendation</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2026, 52(8): 2507–2527.
+  </li>
+<li>
+    Bridget Nyirongo, Yanjie Jiang<sup>†</sup>, Yuxia Zhang, <strong>Hui Liu</strong>.
+    <a href="https://dl.acm.org/doi/10.1145/3832210" rel="noopener noreferrer" target="_blank">From Custom Logic to APIs: Understanding and Recommending API Replacement Refactorings</a> [J].
+    <em>Proceedings of the ACM on Software Engineering</em>, 2026, 3(ISSTA): 2727–2749.
+  </li>
+<li>
+    Waseem Akram, Yanjie Jiang<sup>†</sup>, Haris Ali Khan, Furqan Jalil, <strong>Hui Liu</strong>.
+    <a href="https://dl.acm.org/doi/10.1145/3744916.3773158" rel="noopener noreferrer" target="_blank">LLM-based API Argument Completion with Knowledge-Augmented Prompts</a> [C].
+    <em>IEEE/ACM International Conference on Software Engineering (ICSE)</em>, 2026: 881–893.
+  </li>
+<li>
+    Zixiao Zhao, Yanjie Jiang<sup>†</sup>, <strong>Hui Liu</strong>, Kui Liu, Lu Zhang.
+    <a href="https://dl.acm.org/doi/10.1145/3744916.3764557" rel="noopener noreferrer" target="_blank">SeRe: A Security-Related Code Review Dataset Aligned with Real-World Review Activities</a> [C].
+    <em>IEEE/ACM International Conference on Software Engineering (ICSE)</em>, 2026.
+  </li>
+<li>
+    Chunhao Dong, Yanjie Jiang<sup>†</sup>, Yang Zhang, <strong>Hui Liu</strong>.
+    <a href="https://dl.acm.org/doi/10.1145/3832261" rel="noopener noreferrer" target="_blank">Testing Method Relocation Algorithms via Template-Based Systematic Structural Traversal and Precondition Filtering</a> [J].
+    <em>Proceedings of the ACM on Software Engineering</em>, 2026, 3(ISSTA): 3891–3910.
+  </li>
+<li>
+    Qunhong Zeng, Yuxia Zhang<sup>†</sup>, Zhiqing Qiu, <strong>Hui Liu</strong>.
+    <a href="https://doi.org/10.1109/ICSE55347.2025.00011" rel="noopener noreferrer" target="_blank">A First Look at Conventional Commits Classification</a> [C].
+    <em>IEEE/ACM International Conference on Software Engineering (ICSE)</em>, 2025: 2277–2289.
+  </li>
+<li>
+    Bo Liu, <strong>Hui Liu</strong><sup>*</sup>, Nan Niu, Yuxia Zhang, Guangjie Li, He Jiang, Yanjie Jiang<sup>*</sup>.
+    <a href="https://doi.org/10.1109/TSE.2025.3534239" rel="noopener noreferrer" target="_blank">An Automated Approach to Discovering Software Refactorings by Comparing Successive Versions</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2025, 51(5): 1358–1380.
+  </li>
+<li>
+    Bridget Nyirongo, Yanjie Jiang, Nan Niu, <strong>Hui Liu</strong>.
+    <a href="https://ieeexplore.ieee.org/abstract/document/11152505" rel="noopener noreferrer" target="_blank">An Empirical Study of Software Refactorings in Real-World Open-Source Java Projects</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2025.
+  </li>
+<li>
+    Fu Fan, Yanjie Jiang, Tianyi Chen, Hengshun Zhang, Yuxia Zhang, Nan Niu, <strong>Hui Liu</strong><sup>†</sup>.
+    <a href="https://dl.acm.org/doi/10.1145/3709356" rel="noopener noreferrer" target="_blank">An Empirical Study on Common Sense-Violating Bugs in Mobile Apps</a> [J].
+    <em>ACM Transactions on Software Engineering and Methodology</em>, 2025, 34(6): 179:1–179:26.
+  </li>
+<li>
+    Yanjie Jiang, <strong>Hui Liu</strong><sup>†</sup>, Jinyan Liu, Yuxia Zhang, Weixing Ji, Hao Zhong, Lu Zhang.
+    <a href="https://dl.acm.org/doi/10.1145/3718083" rel="noopener noreferrer" target="_blank">An Empirical Study on the Relationship Between Defects and Source Code’s Unnaturalness</a> [J].
+    <em>ACM Transactions on Software Engineering and Methodology</em>, 2025.
+  </li>
+<li>
+    Yanjie Jiang, Xiaye Chi, Yuxia Zhang, Weixing Ji, Guangjie Li, Weixiao Wang, Yunni Xia, Lu Zhang, <strong>Hui Liu</strong><sup>†</sup>.
+    <a href="https://dl.acm.org/doi/10.1145/3715110" rel="noopener noreferrer" target="_blank">Automated Recommendation of Extracting Local Variable Refactorings</a> [J].
+    <em>ACM Transactions on Software Engineering and Methodology</em>, 2025.
+  </li>
+<li>
+    Chunhao Dong, Yanjie Jiang, Yuxia Zhang, Yang Zhang, <strong>Hui Liu</strong><sup>†</sup>.
+    <a href="https://doi.org/10.1109/ICSE55347.2025.00210" rel="noopener noreferrer" target="_blank">ChatGPT-Based Test Generation for Refactoring Engines Enhanced by Feature Analysis on Examples</a> [C].
+    <em>IEEE/ACM International Conference on Software Engineering (ICSE)</em>, 2025: 2714–2725.
+  </li>
+<li>
+    Meng Fan, Yuxia Zhang, Klaas-Jan Stol, <strong>Hui Liu</strong>.
+    <a href="https://dl.acm.org/doi/10.1145/3729392" rel="noopener noreferrer" target="_blank">Core Developer Turnover in the Rust Package Ecosystem: Prevalence, Impact, and Awareness</a> [J].
+    <em>Proceedings of the ACM on Software Engineering (FSE)</em>, 2025, 2(FSE): 2759–2781.
+  </li>
+<li>
+    Mian Qin, Yuxia Zhang, Minghui Zhou, Zhe Wang, Haoyang Li, <strong>Hui Liu</strong>.
+    <a href="https://doi.org/10.1109/TSE.2025.3568056" rel="noopener noreferrer" target="_blank">Developers’ Views on Commercial Involvement in OSS: A Survey From Three Projects</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2025, 51(6): 1818–1837.
+  </li>
+<li>
+    Yanjie Jiang, Chenxu Li, Zixiao Zhao, Fu Fan, Lu Zhang, <strong>Hui Liu</strong>.
+    <a href="https://www.computer.org/csdl/journal/ts/2025/12/11207729/2aYh3j7iqEE" rel="noopener noreferrer" target="_blank">Evaluating and Improving GPT-Based Expansion of Abbreviations</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2025.
+  </li>
+<li>
+    Haris Ali Khan, Yanjie Jiang<sup>†</sup>, Qasim Umer, Yuxia Zhang, Waseem Akram, <strong>Hui Liu</strong><sup>†</sup>.
+    <a href="https://dl.acm.org/doi/10.1145/3715765" rel="noopener noreferrer" target="_blank">Has My Code Been Stolen for Model Training? A Naturalness Based Approach to Code Contamination Detection</a> [J].
+    <em>Proceedings of the ACM on Software Engineering (FSE)</em>, 2025.
+  </li>
+<li>
+    Yuxin Zhang, Yuxia Zhang, Zeyu Sun, Yanjie Jiang, <strong>Hui Liu</strong>.
+    <a href="https://dl.acm.org/doi/10.1109/ASE63991.2025.00245" rel="noopener noreferrer" target="_blank">LAURA: Enhancing Code Review Generation with Context-Enriched Retrieval-Augmented LLM</a> [C].
+    <em>IEEE/ACM International Conference on Automated Software Engineering (ASE)</em>, 2025: 2983–2995.
+  </li>
+<li>
+    Tahir Ullah, Waseem Akram, Fiza Khaliq, <strong>Hui Liu</strong>.
+    <a href="https://doi.org/10.1109/ASE63991.2025.00226" rel="noopener noreferrer" target="_blank">LLM-Based Identification of Null Pointer Exception Patches</a> [C].
+    <em>IEEE/ACM International Conference on Automated Software Engineering (ASE)</em>, 2025.
+  </li>
+<li>
+    Waseem Akram, Yanjie Jiang<sup>†</sup>, Yuxia Zhang, Haris Ali Khan, <strong>Hui Liu</strong><sup>†</sup>.
+    <a href="https://dl.acm.org/doi/10.1145/3715753" rel="noopener noreferrer" target="_blank">LLM-based Method Name Suggestion with Automatically Generated Context-Rich Prompts</a> [J].
+    <em>Proceedings of the ACM on Software Engineering (FSE)</em>, 2025.
+  </li>
+<li>
+    Wei Wei, Yanjie Jiang, Yahui Li, Lu Zhang, <strong>Hui Liu</strong>.
+    <a href="https://ieeexplore.ieee.org/document/11049955" rel="noopener noreferrer" target="_blank">OneMoreTest: A Learning-Based Approach to Generating and Selecting Fault-Revealing Unit Tests</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2025.
+  </li>
+<li>
+    Hanlin Tang, Yanjie Jiang<sup>†</sup>, Yuxia Zhang, Nan Niu, <strong>Hui Liu</strong>.
+    <a href="https://dl.acm.org/doi/10.1145/3744919" rel="noopener noreferrer" target="_blank">POS Tagging on Code Identifiers: How Far Are We?</a> [J].
+    <em>ACM Transactions on Software Engineering and Methodology</em>, 2025.
+  </li>
+<li>
+    Taiming Wang, <strong>Hui Liu</strong>, Yuxia Zhang, Yanjie Jiang.
+    <a href="https://dl.acm.org/doi/10.1145/3712191" rel="noopener noreferrer" target="_blank">Recommending Variable Names for Extract Local Variable Refactorings</a> [J].
+    <em>ACM Transactions on Software Engineering and Methodology</em>, 2025, 34(6): Article 180.
+  </li>
+<li>
+    Xuetao Li, Yuxia Zhang<sup>†</sup>, Cailean Osborne, Minghui Zhou, Zhi Jin, <strong>Hui Liu</strong>.
+    <a href="https://dl.acm.org/doi/10.1145/3690632" rel="noopener noreferrer" target="_blank">Systematic Literature Review of Commercial Participation in Open Source Software</a> [J].
+    <em>ACM Transactions on Software Engineering and Methodology</em>, 2025, 34(2).
+  </li>
+<li>
+    Mian Qin, Yuxia Zhang, Klaas-Jan Stol, <strong>Hui Liu</strong>.
+    <a href="https://dl.acm.org/doi/10.1145/3729393" rel="noopener noreferrer" target="_blank">Who Will Stop Contributing to OSS Projects? Predicting Company Turnover Based on Initial Behavior</a> [J].
+    <em>Proceedings of the ACM on Software Engineering (FSE)</em>, 2025, 2(FSE): 2782–2805.
+  </li>
+<li>
+    Taiming Wang, Yanjie Jiang<sup>†</sup>, Chunhao Dong, Yuxia Zhang, <strong>Hui Liu</strong>.
+    <a href="https://doi.org/10.1109/ASE63991.2025.00023" rel="noopener noreferrer" target="_blank">Wired for Reuse: Automating Context-Aware Code Adaptation in IDEs via LLM-Based Agent</a> [C].
+    <em>IEEE/ACM International Conference on Automated Software Engineering (ASE)</em>, 2025: 178–190.
+  </li>
+<li>
+    Tianyi Chen, Yanjie Jiang, Fu Fan, Bo Liu, <strong>Hui Liu</strong><sup>†</sup>.
+    <a href="https://dl.acm.org/doi/10.1145/3691620.3694992" rel="noopener noreferrer" target="_blank">A Position-Aware Approach to Decomposing God Classes</a> [C].
+    <em>IEEE/ACM International Conference on Automated Software Engineering (ASE)</em>, 2024.
+  </li>
+<li>
+    Yuxia Zhang, Zhiqing Qiu, Klaas-Jan Stol, Wenhui Zhu, Jiaxin Zhu, Yingchen Tian, <strong>Hui Liu</strong><sup>†</sup>.
+    <a href="https://ieeexplore.ieee.org/document/10433002/" rel="noopener noreferrer" target="_blank">Automatic Commit Message Generation: A Critical Review and Directions for Future Work</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2024, 50(4): 816–835.
+  </li>
+<li>
+    Chunhao Dong, Yanjie Jiang, Nan Niu, Yuxia Zhang, <strong>Hui Liu</strong><sup>†</sup>.
+    <a href="https://dl.acm.org/doi/10.1145/3597503.3639195" rel="noopener noreferrer" target="_blank">Context-Aware Name Recommendation for Field Renaming</a> [C].
+    <em>IEEE/ACM International Conference on Software Engineering (ICSE)</em>, 2024, Article 235: 1–13.
+  </li>
+<li>
+    Yuxia Zhang, Mian Qin, Klaas-Jan Stol, Minghui Zhou, <strong>Hui Liu</strong><sup>†</sup>.
+    <a href="https://dl.acm.org/doi/10.1145/3597503.3639197" rel="noopener noreferrer" target="_blank">How Are Paid and Volunteer Open Source Developers Different? A Study of the Rust Project</a> [C].
+    <em>IEEE/ACM International Conference on Software Engineering (ICSE)</em>, 2024, Article 195: 1–13.
+  </li>
+<li>
+    Yang Zhang, Yiwen Wu, Tingting Chen, Tao Wang, <strong>Hui Liu</strong>, Huaimin Wang.
+    <a href="https://dl.acm.org/doi/10.1145/3597503.3623327" rel="noopener noreferrer" target="_blank">How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community</a> [C].
+    <em>IEEE/ACM International Conference on Software Engineering (ICSE)</em>, 2024, Article 51: 1–13.
+  </li>
+<li>
+    Tianyang Liu, Weixing Ji, Xiaohui Dong, Wuhuang Yao, Yizhuo Wang, <strong>Hui Liu</strong>, Haiyang Peng, Yuxuan Wang.
+    <a href="https://dl.acm.org/doi/10.1145/3597503.3639162" rel="noopener noreferrer" target="_blank">JLeaks: A Featured Resource Leak Repository Collected From Hundreds of Open-Source Java Projects</a> [C].
+    <em>IEEE/ACM International Conference on Software Engineering (ICSE)</em>, 2024, Article 140: 1–13.
+  </li>
+<li>
+    Fang Liu, Zhiyi Fu, Ge Li, Zhi Jin, <strong>Hui Liu</strong>, Yiyang Hao, Li Zhang.
+    <a href="https://dl.acm.org/doi/10.1145/3649594" rel="noopener noreferrer" target="_blank">Non-Autoregressive Line-Level Code Completion</a> [J].
+    <em>ACM Transactions on Software Engineering and Methodology</em>, 2024, 33(5): Article 120, 34 pp.
+  </li>
+<li>
+    Yanjie Jiang, <strong>Hui Liu</strong><sup>†</sup>, Shing-Chi Cheung, Lu Zhang.
+    <a href="https://dl.acm.org/doi/10.1145/3676959" rel="noopener noreferrer" target="_blank">Shortening Overlong Method Names with Abbreviations</a> [J].
+    <em>ACM Transactions on Software Engineering and Methodology</em>, 2024, 33(8): Article 205.
+  </li>
+<li>
+    Xiaye Chi, <strong>Hui Liu</strong><sup>†</sup>, Guangjie Li, Weixiao Wang, Yunni Xia, Yanjie Jiang, Yuxia Zhang, Weixing Ji.
+    <a href="https://dl.acm.org/doi/10.1145/3611643.3616261" rel="noopener noreferrer" target="_blank">An Automated Approach to Extracting Local Variables</a> [C].
+    <em>ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</em>, 2023: 313–325.
+  </li>
+<li>
+    Bo Liu, <strong>Hui Liu</strong><sup>*</sup>, Nan Niu, Yuxia Zhang, Guangjie Li, Yanjie Jiang.
+    <a href="https://doi.org/10.1109/ASE56229.2023.00132" rel="noopener noreferrer" target="_blank">Automated Software Entity Matching Between Successive Versions</a> [C].
+    <em>IEEE/ACM International Conference on Automated Software Engineering (ASE)</em>, 2023: 1615–1627.
+  </li>
+<li>
+    Yanjie Jiang, <strong>Hui Liu</strong><sup>*</sup>, Xiaoqing Luo, Zhihao Zhu, Xiaye Chi, Nan Niu, Yuxia Zhang, Yamin Hu, Pan Bian, Lu Zhang.
+    <a href="https://doi.org/10.1109/TSE.2022.3177713" rel="noopener noreferrer" target="_blank">BugBuilder: An Automated Approach to Building Bug Repository</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2023, 49(4): 1443–1463.
+  </li>
+<li>
+    Bo Liu, <strong>Hui Liu</strong><sup>†</sup>, Guangjie Li, Nan Niu, Zimao Xu, Yifan Wang, Yunni Xia, Yuxia Zhang, Yanjie Jiang<sup>†</sup>.
+    <a href="https://dl.acm.org/doi/10.1145/3611643.3616353" rel="noopener noreferrer" target="_blank">Deep Learning Based Feature Envy Detection Boosted by Real-World Examples</a> [C].
+    <em>ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</em>, 2023: 908–920.
+  </li>
+<li>
+    Leping Li, <strong>Hui Liu</strong><sup>*</sup>, Kejun Li, Yanjie Jiang, Rui Sun.
+    <a href="https://doi.org/10.1109/TSE.2022.3153522" rel="noopener noreferrer" target="_blank">Generating Concise Patches for Newly Released Programming Assignments</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2023, 49(1): 450–467.
+  </li>
+<li>
+    Yanjie Jiang, <strong>Hui Liu</strong><sup>†</sup>, Jiahao Jin, Lu Zhang.
+    <a href="https://doi.org/10.1109/TSE.2020.2995736" rel="noopener noreferrer" target="_blank">Automated Expansion of Abbreviations Based on Semantic Relation and Transfer Expansion</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2022, 48(2): 519–537.
+  </li>
+<li>
+    Yuxia Zhang, Klaas-Jan Stol, <strong>Hui Liu</strong><sup>†</sup>, Minghui Zhou.
+    <a href="https://dl.acm.org/doi/10.1145/3540250.3549117" rel="noopener noreferrer" target="_blank">Corporate Dominance in Open Source Ecosystems: A Case Study of OpenStack</a> [C].
+    <em>ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</em>, 2022: 1048–1060.
+  </li>
+<li>
+<strong>Hui Liu</strong><sup>†</sup>, Mingzhu Shen, Jiaqi Zhu, Nan Niu, Ge Li, Lu Zhang.
+    <a href="https://doi.org/10.1109/TSE.2020.3018481" rel="noopener noreferrer" target="_blank">Deep Learning Based Program Generation From Requirements Text: Are We There Yet?</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2022, 48(4): 1268–1289.
+  </li>
+<li>
+    Yanjie Jiang, <strong>Hui Liu</strong>, Yuxia Zhang, Weixing Ji, Hao Zhong, Lu Zhang.
+    <a href="https://dl.acm.org/doi/10.1145/3540250.3549149" rel="noopener noreferrer" target="_blank">Do Bugs Lead to Unnaturalness of Source Code?</a> [C].
+    <em>ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</em>, 2022: 1085–1096.
+  </li>
+<li>
+    Lin Jiang, <strong>Hui Liu</strong><sup>†</sup>, He Jiang, Lu Zhang, Hong Mei.
+    <a href="https://ieeexplore.ieee.org/document/9171589/" rel="noopener noreferrer" target="_blank">Heuristic and Neural Network Based Prediction of Project-Specific API Member Access</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2022, 48(4): 1249–1267.
+  </li>
+<li>
+    Yuxia Zhang, <strong>Hui Liu</strong>, Xin Tan, Minghui Zhou, Zhi Jin, Jiaxin Zhu.
+    <a href="https://dl.acm.org/doi/10.1145/3510849" rel="noopener noreferrer" target="_blank">Turnover of Companies in OpenStack: Prevalence and Rationale</a> [J].
+    <em>ACM Transactions on Software Engineering and Methodology</em>, 2022, 31(4): Article 75, 24 pp.
+  </li>
+<li>
+    Yingchen Tian, Yuxia Zhang<sup>†</sup>, Klaas-Jan Stol, Lin Jiang, <strong>Hui Liu</strong><sup>†</sup>.
+    <a href="https://dl.acm.org/doi/10.1145/3510003.3510205" rel="noopener noreferrer" target="_blank">What Makes a Good Commit Message?</a> [C].
+    <em>IEEE/ACM International Conference on Software Engineering (ICSE)</em>, 2022: 2389–2401.
+  </li>
+<li>
+<strong>Hui Liu</strong><sup>†</sup>, Jiahao Jin, Zhifeng Xu, Yanzhen Zou, Yifan Bu, Lu Zhang.
+    <a href="https://doi.org/10.1109/TSE.2019.2936376" rel="noopener noreferrer" target="_blank">Deep Learning Based Code Smell Detection</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2021, 47(9): 1811–1837.
+  </li>
+<li>
+    Yanjie Jiang, <strong>Hui Liu</strong><sup>†</sup>, Nan Niu, Lu Zhang, Yamin Hu.
+    <a href="https://doi.org/10.1109/ICSE43902.2021.00069" rel="noopener noreferrer" target="_blank">Extracting Concise Bug-Fixing Patches from Human-Written Patches in Version Control Systems</a> [C].
+    <em>IEEE/ACM International Conference on Software Engineering (ICSE)</em>, 2021: 686–698.
+  </li>
+<li>
+    Xuanyi Lin, Zedong Peng, Nan Niu, Wentao Wang, <strong>Hui Liu</strong>.
+    <a href="https://ieeexplore.ieee.org/document/9402487/" rel="noopener noreferrer" target="_blank">Finding Metamorphic Relations for Scientific Software</a> [C].
+    <em>IEEE/ACM International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)</em>, 2021: 254–255.
+  </li>
+<li>
+    Yanjie Jiang, <strong>Hui Liu</strong><sup>†</sup>, Yuxia Zhang, Nan Niu, Yuhai Zhao, Lu Zhang.
+    <a href="https://dl.acm.org/doi/10.1145/3468264.3468616" rel="noopener noreferrer" target="_blank">Which Abbreviations Should Be Expanded?</a> [C].
+    <em>ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</em>, 2021: 578–589.
+  </li>
+<li>
+<strong>Hui Liu</strong><sup>†</sup>, Mingzhu Shen, Jiahao Jin, Yanjie Jiang.
+    <a href="https://dl.acm.org/doi/10.1145/3395363.3397355" rel="noopener noreferrer" target="_blank">Automated Classification of Actions in Bug Reports of Mobile Apps</a> [C].
+    <em>ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)</em>, 2020: 128–140.
+  </li>
+<li>
+    Yanjie Jiang, <strong>Hui Liu</strong><sup>†</sup>, Jiaqi Zhu, Lu Zhang.
+    <a href="https://doi.org/10.1109/TSE.2018.2868762" rel="noopener noreferrer" target="_blank">Automatic and Accurate Expansion of Abbreviations in Parameters</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2020, 46(7): 732–747.
+  </li>
+<li>
+    He Jiang, Dong Liu, Xin Chen, <strong>Hui Liu</strong>, Hong Mei.
+    <a href="https://2019.icse-conferences.org/details/icse-2019-Posters/4/How-Design-Patterns-Are-Concerned-by-Developers-" rel="noopener noreferrer" target="_blank">How Design Patterns Are Concerned by Developers?</a> [C].
+    <em>IEEE/ACM International Conference on Software Engineering (ICSE), Posters</em>, 2019.
+  </li>
+<li>
+    Lin Jiang, <strong>Hui Liu</strong><sup>†</sup>, He Jiang.
+    <a href="https://doi.org/10.1109/ASE.2019.00062" rel="noopener noreferrer" target="_blank">Machine Learning Based Recommendation of Method Names: How Far Are We</a> [C].
+    <em>IEEE/ACM International Conference on Automated Software Engineering (ASE)</em>, 2019: 602–614.
+  </li>
+<li>
+    Yanjie Jiang, <strong>Hui Liu</strong><sup>*</sup>, Lu Zhang.
+    <a href="https://dl.acm.org/doi/10.1145/3338906.3338929" rel="noopener noreferrer" target="_blank">Semantic Relation Based Expansion of Abbreviations</a> [C].
+    <em>ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</em>, 2019: 131–141.
+  </li>
+<li>
+<strong>Hui Liu</strong><sup>†</sup>, Zhifeng Xu, Yanzhen Zou.
+    <a href="https://dl.acm.org/doi/10.1145/3238147.3238166" rel="noopener noreferrer" target="_blank">Deep Learning Based Feature Envy Detection</a> [C].
+    <em>IEEE/ACM International Conference on Automated Software Engineering (ASE)</em>, 2018: 385–396.
+  </li>
+<li>
+<strong>Hui Liu</strong><sup>†</sup>, Qiurong Liu, Zhendong Niu, Yang Liu.
+    <a href="https://doi.org/10.1109/TSE.2015.2503740" rel="noopener noreferrer" target="_blank">Dynamic and Automatic Feedback-Based Threshold Adaptation for Code Smell Detection</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2016, 42(6): 544–558.
+  </li>
+<li>
+<strong>Hui Liu</strong><sup>†</sup>, Qiurong Liu, Cristian-Alexandru Staicu, Michael Pradel, Yue Luo.
+    <a href="https://dl.acm.org/doi/10.1145/2884781.2884841" rel="noopener noreferrer" target="_blank">Nomen est Omen: Exploring and Exploiting Similarities between Argument and Parameter Names</a> [C].
+    <em>IEEE/ACM International Conference on Software Engineering (ICSE)</em>, 2016: 1063–1073.
+  </li>
+<li>
+<strong>Hui Liu</strong><sup>†</sup>, Qiurong Liu, Yang Liu, Zhouding Wang.
+    <a href="https://doi.org/10.1109/TSE.2015.2427831" rel="noopener noreferrer" target="_blank">Identifying Renaming Opportunities by Expanding Conducted Rename Refactorings</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2015, 41(9): 887–900.
+  </li>
+<li>
+<strong>Hui Liu</strong><sup>†</sup>, Xue Guo, Weizhong Shao.
+    <a href="https://doi.org/10.1109/TSE.2013.4" rel="noopener noreferrer" target="_blank">Monitor-Based Instant Software Refactoring</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2013, 39(8): 1112–1126.
+  </li>
+<li>
+<strong>Hui Liu</strong><sup>*</sup>, Zhiyi Ma, Weizhong Shao, Zhendong Niu.
+    <a href="https://doi.org/10.1109/TSE.2011.9" rel="noopener noreferrer" target="_blank">Schedule of Bad Smell Detection and Resolution: A New Way to Save Effort</a> [J].
+    <em>IEEE Transactions on Software Engineering</em>, 2012, 38(1): 220–235.
+  </li>
+<li>
+<strong>Hui Liu</strong>, Limei Yang, Zhendong Niu, Zhiyi Ma, Weizhong Shao.
+    <a href="https://dl.acm.org/doi/10.1145/1595696.1595738" rel="noopener noreferrer" target="_blank">Facilitating Software Refactoring with Appropriate Resolution Order of Bad Smells</a> [C].
+    <em>ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</em>, 2009: 265–268.
+  </li>
+<li>
+<strong>Hui Liu</strong><sup>†</sup>, Ge Li, Zhiyi Ma, Weizhong Shao.
+    <a href="https://dl.acm.org/doi/10.1145/1321631.1321716" rel="noopener noreferrer" target="_blank">Scheduling of Conflicting Refactorings to Promote Quality Improvement</a> [C].
+    <em>IEEE/ACM International Conference on Automated Software Engineering (ASE)</em>, 2007: 489–492.
+  </li>
+</ol></div>
+  </section>
+</main>
+<footer class="site-footer">
+  <div class="wrap footer-inner"><p>Hui Liu · Beijing Institute of Technology</p><a href="#top">Back to top ↑</a></div>
+</footer>
+</body>
+</html>
